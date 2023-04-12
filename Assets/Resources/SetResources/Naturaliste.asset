@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Naturaliste
+  m_EditorClassIdentifier: 
+  setName: Naturaliste
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 3856fae84bad41a43bfe0a17d72fa292, type: 2}
+  - {fileID: 11400000, guid: 63e8e9e127bf7614baed546607ad0adc, type: 2}
+  - {fileID: 11400000, guid: 29b3486f5e7cc16498f86dfd7d618f17, type: 2}
+  - {fileID: 11400000, guid: 7e220ad9a632ac946b026a0d9fccd2d9, type: 2}
+  - {fileID: 11400000, guid: 03257d67f253f734193e59d9a6223f5f, type: 2}
+  - {fileID: 11400000, guid: 422f729988483f4449878a6e49f37cb8, type: 2}
+  - {fileID: 11400000, guid: 249ea4c593de887498510a4249da492d, type: 2}
+  - {fileID: 11400000, guid: 1e91f98202141204fa9ea41d2025f41a, type: 2}

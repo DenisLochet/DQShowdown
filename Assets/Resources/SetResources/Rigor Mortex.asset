@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Rigor Mortex
+  m_EditorClassIdentifier: 
+  setName: Rigor Mortex
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 13c6bd881faf1d848b1a0152fe192f38, type: 2}
+  - {fileID: 11400000, guid: 727cda25cb87ce34281292132ae7a1c9, type: 2}
+  - {fileID: 11400000, guid: bbcab4eb20b8f6f47b1e780a9f938e26, type: 2}
+  - {fileID: 11400000, guid: 23da791736d66954092835f7868b451e, type: 2}
+  - {fileID: 11400000, guid: 57a4ab8bc1c9be94f85ba54ab4b0910c, type: 2}
+  - {fileID: 11400000, guid: b096abc1929ebde4393fa753fbb62d99, type: 2}
+  - {fileID: 11400000, guid: a115dbf3d0a10d945b8e7078c435f8b1, type: 2}

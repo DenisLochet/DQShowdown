@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Mauvaise haleine
+  m_EditorClassIdentifier: 
+  setName: Mauvaise haleine
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 9e7dfc17e96643d42a93be9517b44fa7, type: 2}
+  - {fileID: 11400000, guid: ce354e0bdffc02f4a882d6cf2a3efbd3, type: 2}
+  - {fileID: 11400000, guid: fc70e1d5c476e0f4e9022c9bcbd27794, type: 2}
+  - {fileID: 11400000, guid: b11522776924bf24a82d487c421a71da, type: 2}
+  - {fileID: 11400000, guid: 513c7be2459855b4daeea9229f64621e, type: 2}
+  - {fileID: 11400000, guid: 4c00cd6faa25a0e4092e997632d0bbfa, type: 2}

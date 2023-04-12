@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Typhonia
+  m_EditorClassIdentifier: 
+  setName: Typhonia
+  aptitudeDatas:
+  - {fileID: 11400000, guid: a63f3842d4ed79348b05a39dae9728dc, type: 2}
+  - {fileID: 11400000, guid: bb8fc26ccf4514b42b488c0ad9c79f01, type: 2}
+  - {fileID: 11400000, guid: 7805a6e267138a9448b41464d6101ca1, type: 2}
+  - {fileID: 11400000, guid: 349f7a99769b33f41b541801341a18de, type: 2}
+  - {fileID: 11400000, guid: 1974f9b257d9b844c80768b5e201900a, type: 2}
+  - {fileID: 11400000, guid: a19e984e267dc0342b169743e00a144c, type: 2}
+  - {fileID: 11400000, guid: 0da5839c6595f4341a43c849d6dbf5fd, type: 2}

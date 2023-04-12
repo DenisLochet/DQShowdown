@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Chevalier blanc
+  m_EditorClassIdentifier: 
+  setName: Chevalier blanc
+  aptitudeDatas:
+  - {fileID: 11400000, guid: cc26030a04c99034894e97bbc6532718, type: 2}
+  - {fileID: 11400000, guid: 00073b1ee173ae24488f63bcdb7ec8fc, type: 2}
+  - {fileID: 11400000, guid: 7e6a21e1489289f4aa22ed4093fbdd54, type: 2}
+  - {fileID: 11400000, guid: 0fc4f6817fdab3b4088b89d4b9fa9d45, type: 2}
+  - {fileID: 11400000, guid: d1cdc669e7b1dee4b97bdc32cce3aa9c, type: 2}
+  - {fileID: 11400000, guid: 826242034a9a622419024190dc92556b, type: 2}
+  - {fileID: 11400000, guid: a2b2b7a45cf9f4947aa4fca247e326dc, type: 2}

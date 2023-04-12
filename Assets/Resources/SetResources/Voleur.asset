@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Voleur
+  m_EditorClassIdentifier: 
+  setName: Voleur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 46ad44ab3f759b949ac76918402bd00f, type: 2}
+  - {fileID: 11400000, guid: f55e65a626fd5554280392dddc2d2be5, type: 2}
+  - {fileID: 11400000, guid: 0204b0f312134af4e862b10c46231f64, type: 2}
+  - {fileID: 11400000, guid: f55e65a626fd5554280392dddc2d2be5, type: 2}
+  - {fileID: 11400000, guid: f55e65a626fd5554280392dddc2d2be5, type: 2}
+  - {fileID: 11400000, guid: 0f43e3b98aa006f4e99a99ee29f28205, type: 2}
+  - {fileID: 11400000, guid: f55e65a626fd5554280392dddc2d2be5, type: 2}
+  - {fileID: 11400000, guid: 70e7c21cf5008c747a86084905b42718, type: 2}

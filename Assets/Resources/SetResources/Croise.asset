@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Croise
+  m_EditorClassIdentifier: 
+  setName: Croise
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 39e9ca1f649ea674ba2ae61e3ea42179, type: 2}
+  - {fileID: 11400000, guid: 93c10dc98cc3b95438e5431caf8befa2, type: 2}
+  - {fileID: 11400000, guid: d1cdc669e7b1dee4b97bdc32cce3aa9c, type: 2}
+  - {fileID: 11400000, guid: 355dd39626230814a87ab0fc6995ec2f, type: 2}
+  - {fileID: 11400000, guid: 585aa1c99fb4bd24fb064e1a17be4397, type: 2}
+  - {fileID: 11400000, guid: c2838b90d7792a144a4cd4a12007845e, type: 2}
+  - {fileID: 11400000, guid: 18407900d2af29b49858a345624472ff, type: 2}
+  - {fileID: 11400000, guid: 65c4225b35fd7a14e9fafc8aa2ce9a60, type: 2}

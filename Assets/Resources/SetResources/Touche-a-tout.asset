@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Touche-a-tout
+  m_EditorClassIdentifier: 
+  setName: Touche-a-tout
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 9e7dfc17e96643d42a93be9517b44fa7, type: 2}
+  - {fileID: 11400000, guid: 883f9812e5bed9c4e80aea7beed72599, type: 2}
+  - {fileID: 11400000, guid: 7fe32542450f758419067dee0491f065, type: 2}
+  - {fileID: 11400000, guid: 73ac05d6bdbe90b40a83159fc294416f, type: 2}
+  - {fileID: 11400000, guid: fc70e1d5c476e0f4e9022c9bcbd27794, type: 2}
+  - {fileID: 11400000, guid: 6ce770d3a7617284bb9046af4aea3884, type: 2}
+  - {fileID: 11400000, guid: 6903b4989fb2b7b4a81f7b290d6bf439, type: 2}
+  - {fileID: 11400000, guid: bac7ad39f387023439e6b088ffd7cb8c, type: 2}

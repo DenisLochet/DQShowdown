@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Aide magique
+  m_EditorClassIdentifier: 
+  setName: Aide magique
+  aptitudeDatas:
+  - {fileID: 11400000, guid: bb8fc26ccf4514b42b488c0ad9c79f01, type: 2}
+  - {fileID: 11400000, guid: 9768fc4d71bf56946a29edfb13525de4, type: 2}
+  - {fileID: 11400000, guid: 7ed9a3189142215429b6c9b172ce974d, type: 2}
+  - {fileID: 11400000, guid: 375b66d7d1c531147b745224cd3c0055, type: 2}
+  - {fileID: 11400000, guid: 7e74fe526bcaa3540a6aa433aba049db, type: 2}
+  - {fileID: 11400000, guid: 3229504dba6d75447b16494c08dd8588, type: 2}
+  - {fileID: 11400000, guid: 8afd11a0f6ab41e4f90969381ea9e722, type: 2}

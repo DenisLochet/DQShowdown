@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Flamme et Crame
+  m_EditorClassIdentifier: 
+  setName: Flamme et Crame
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 2031021f59033e14dad9284870d5fac2, type: 2}
+  - {fileID: 11400000, guid: b284cec7f43be0e4ab09833b4c631585, type: 2}
+  - {fileID: 11400000, guid: f2a9133d755da8343b1b002c62822760, type: 2}
+  - {fileID: 11400000, guid: 67c287e25c2534b4c9bc1a5838763d66, type: 2}
+  - {fileID: 11400000, guid: e95f15c267cac914db3f831eb3bf822c, type: 2}
+  - {fileID: 11400000, guid: 82f013d2aba4a5048857e00300946c4e, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Top Charmeur
+  m_EditorClassIdentifier: 
+  setName: Top Charmeur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 375b66d7d1c531147b745224cd3c0055, type: 2}
+  - {fileID: 11400000, guid: 880f025af75118040ae0b84a866f1e23, type: 2}
+  - {fileID: 11400000, guid: bb8fc26ccf4514b42b488c0ad9c79f01, type: 2}
+  - {fileID: 11400000, guid: 3229504dba6d75447b16494c08dd8588, type: 2}
+  - {fileID: 11400000, guid: 6d6bbb02a42254e44832ce72b327c6f9, type: 2}
+  - {fileID: 11400000, guid: 23da791736d66954092835f7868b451e, type: 2}
+  - {fileID: 11400000, guid: ebe0385f21fac964a910db465825136c, type: 2}
+  - {fileID: 11400000, guid: 2b4b4c78d7cecee40b4b1b2cd88a2ebe, type: 2}
+  - {fileID: 11400000, guid: d118c4a746ce9ef4d8661c76e6b756fb, type: 2}

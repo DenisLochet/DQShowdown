@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Atrefle II
+  m_EditorClassIdentifier: 
+  setName: Atrefle II
+  aptitudeDatas:
+  - {fileID: 11400000, guid: d9e42a37c3a5a3642a8559debdfd259e, type: 2}
+  - {fileID: 11400000, guid: 51c39043ca2233f48af45c97365d07ba, type: 2}
+  - {fileID: 11400000, guid: 1c2a4649b00739b4b97eb8dab9fe7999, type: 2}
+  - {fileID: 11400000, guid: b24a0bafc79f7d041b1b7f8d62ec41ca, type: 2}
+  - {fileID: 11400000, guid: 486cfde4823b70b4ebb7261998a92fea, type: 2}
+  - {fileID: 11400000, guid: 23535e63996ac42408633c2631b1bd7c, type: 2}
+  - {fileID: 11400000, guid: b63bb502293d0d64fb2f39c624d1be16, type: 2}

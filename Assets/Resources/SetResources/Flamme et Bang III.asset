@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Flamme et Bang III
+  m_EditorClassIdentifier: 
+  setName: Flamme et Bang III
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 90e4fc0aab449b54e8a73f7c21f9fd36, type: 2}
+  - {fileID: 11400000, guid: b63bb502293d0d64fb2f39c624d1be16, type: 2}
+  - {fileID: 11400000, guid: 260d711ac87801643b9caf053084df1b, type: 2}
+  - {fileID: 11400000, guid: b24a0bafc79f7d041b1b7f8d62ec41ca, type: 2}
+  - {fileID: 11400000, guid: c1c8180b2b5e87e46aa4ee9cc269e46e, type: 2}
+  - {fileID: 11400000, guid: 6dbd8fe8f92c7d949b0bb2b004d66c05, type: 2}

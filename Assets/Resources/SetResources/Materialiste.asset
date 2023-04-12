@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Materialiste
+  m_EditorClassIdentifier: 
+  setName: Materialiste
+  aptitudeDatas:
+  - {fileID: 11400000, guid: b0a31d95167992f498f718f34a511f79, type: 2}
+  - {fileID: 11400000, guid: 7569ce6c0de4c5e44b0f690470c02496, type: 2}
+  - {fileID: 11400000, guid: 1e91f98202141204fa9ea41d2025f41a, type: 2}
+  - {fileID: 11400000, guid: 51c39043ca2233f48af45c97365d07ba, type: 2}
+  - {fileID: 11400000, guid: 00073b1ee173ae24488f63bcdb7ec8fc, type: 2}
+  - {fileID: 11400000, guid: 65ae19b573de3f34f9d786309ce5cb85, type: 2}
+  - {fileID: 11400000, guid: 367c5a6eb634f0c43b45d8fed96d8d41, type: 2}

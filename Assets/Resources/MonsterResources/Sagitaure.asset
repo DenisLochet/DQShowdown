@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 460c6711f8ca97f409568268bcd40613, type: 3}
+  m_Name: Sagitaure
+  m_EditorClassIdentifier: 
+  monsterName: Sagitaure
+  sprite: {fileID: -782485589, guid: 303404626e8389849881559faefb7543, type: 3}
+  rank: X
+  type: 4
+  size: 3
+  pasif: 
+  stats:
+    HP: 1990
+    MP: 480
+    ATK: 640
+    DEF: 990
+    AGI: 730
+    WIS: 530
+  weapons:
+    Sword: 0
+    Spear: 0
+    Axe: 0
+    Hammer: 0
+    Whip: 0
+    Claw: 0
+    Staff: 0
+  aptDefence: {fileID: 11400000, guid: 84b1649bbbc16824aa60b48a7c4cd168, type: 2}
+  aptAttaque: {fileID: 11400000, guid: 88770653cbc92254fa664b1897495278, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Maestrogel
+  m_EditorClassIdentifier: 
+  setName: Maestrogel
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 33c1c4b52f09b0d4786540991307a677, type: 2}
+  - {fileID: 11400000, guid: 56ef7245a8e698146afc7a3b903b520d, type: 2}
+  - {fileID: 11400000, guid: 03257d67f253f734193e59d9a6223f5f, type: 2}
+  - {fileID: 11400000, guid: 3bb063b0ab00b414fa124104de8d89ad, type: 2}
+  - {fileID: 11400000, guid: 67cbe0819991dbf4293f3a1bee3f8d9a, type: 2}
+  - {fileID: 11400000, guid: f3229bb684365424ba7456e9ee581bd9, type: 2}
+  - {fileID: 11400000, guid: 8e59d2fd1cdb36b43a73fe4d76881675, type: 2}

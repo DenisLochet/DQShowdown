@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Apik III
+  m_EditorClassIdentifier: 
+  setName: Apik III
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 6903b4989fb2b7b4a81f7b290d6bf439, type: 2}
+  - {fileID: 11400000, guid: d118c4a746ce9ef4d8661c76e6b756fb, type: 2}
+  - {fileID: 11400000, guid: ef236ec116c79cd4496896f5fc018f0a, type: 2}
+  - {fileID: 11400000, guid: 65ae19b573de3f34f9d786309ce5cb85, type: 2}
+  - {fileID: 11400000, guid: e83b48363e241a243b67b45423d79839, type: 2}
+  - {fileID: 11400000, guid: e3cbf73540f77a245be62ba3c6ac715a, type: 2}
+  - {fileID: 11400000, guid: 367c5a6eb634f0c43b45d8fed96d8d41, type: 2}

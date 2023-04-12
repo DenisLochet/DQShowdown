@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Chasseur
+  m_EditorClassIdentifier: 
+  setName: Chasseur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 57bd848ebe8efb542a74e938921bb497, type: 2}
+  - {fileID: 11400000, guid: 0f43e3b98aa006f4e99a99ee29f28205, type: 2}
+  - {fileID: 11400000, guid: 0204b0f312134af4e862b10c46231f64, type: 2}
+  - {fileID: 11400000, guid: 7569ce6c0de4c5e44b0f690470c02496, type: 2}
+  - {fileID: 11400000, guid: 29b3486f5e7cc16498f86dfd7d618f17, type: 2}
+  - {fileID: 11400000, guid: a2509921cde1c0f498e5ff37962ed7d5, type: 2}
+  - {fileID: 11400000, guid: 85702e6cb50d7a74b98f32af6680209b, type: 2}
+  - {fileID: 11400000, guid: 249ea4c593de887498510a4249da492d, type: 2}

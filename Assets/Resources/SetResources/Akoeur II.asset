@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Akoeur II
+  m_EditorClassIdentifier: 
+  setName: Akoeur II
+  aptitudeDatas:
+  - {fileID: 11400000, guid: e95f15c267cac914db3f831eb3bf822c, type: 2}
+  - {fileID: 11400000, guid: 6d6bbb02a42254e44832ce72b327c6f9, type: 2}
+  - {fileID: 11400000, guid: 260d711ac87801643b9caf053084df1b, type: 2}
+  - {fileID: 11400000, guid: 90e4fc0aab449b54e8a73f7c21f9fd36, type: 2}
+  - {fileID: 11400000, guid: 620b05d1b0961c346a9ec60762428226, type: 2}
+  - {fileID: 11400000, guid: b58920e745547004396f6efa5e1edd8e, type: 2}
+  - {fileID: 11400000, guid: 23da791736d66954092835f7868b451e, type: 2}

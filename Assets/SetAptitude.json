@@ -1,0 +1,3201 @@
+{
+  "setApt": [
+    {
+      "SetName": "Flamme et Bang",
+      "aptitudes": [
+        "Flamme",
+        "Lame de feu",
+        "Bang",
+        "Lame detonante",
+        "Superflamme",
+        "Superbang"
+      ]
+    },
+    {
+      "SetName": "Flamme et Tornade",
+      "aptitudes": [
+        "Flamme",
+        "Tornade",
+        "Lame de vent",
+        "Supertornade",
+        "Lame de feu",
+        "Superflamme"
+      ]
+    },
+    {
+      "SetName": "Flamme et Foudre",
+      "aptitudes": [
+        "Flamme",
+        "Lame de feu",
+        "Foudre",
+        "Lame benie",
+        "Superflamme",
+        "Superfoudre"
+      ]
+    },
+    {
+      "SetName": "Flamme et Elec",
+      "aptitudes": [
+        "Flamme",
+        "Elec",
+        "Lame de feu",
+        "Lame sombre",
+        "Superelec",
+        "Superflamme"
+      ]
+    },
+    {
+      "SetName": "Flamme et Crame",
+      "aptitudes": [
+        "Flamme",
+        "Lame de feu",
+        "Crame",
+        "Lame d'eclair",
+        "Superflamme",
+        "Supercrame"
+      ]
+    },
+    {
+      "SetName": "Bang et Tornade",
+      "aptitudes": [
+        "Tornade",
+        "Bang",
+        "Supertornade",
+        "Lame detonante",
+        "Lame de vent",
+        "Superbang"
+      ]
+    },
+    {
+      "SetName": "Bang et Glace",
+      "aptitudes": [
+        "Bang",
+        "Lame detonante",
+        "Glace",
+        "Lame de gel",
+        "Superglace",
+        "Superbang"
+      ]
+    },
+    {
+      "SetName": "Bang et Foudre",
+      "aptitudes": [
+        "Bang",
+        "Foudre",
+        "Lame detonante",
+        "Lame benie",
+        "Superfoudre",
+        "Superbang"
+      ]
+    },
+    {
+      "SetName": "Bang et Elec",
+      "aptitudes": [
+        "Bang",
+        "Elec",
+        "Lame detonante",
+        "Lame sombre",
+        "Superelec",
+        "Superbang"
+      ]
+    },
+    {
+      "SetName": "Bang et Crame",
+      "aptitudes": [
+        "Crame",
+        "Bang",
+        "Supercrame",
+        "Lame detonante",
+        "Lame d'eclair",
+        "Superbang"
+      ]
+    },
+    {
+      "SetName": "Flamme et Bang II",
+      "aptitudes": [
+        "Lame de feu",
+        "Lame detonante",
+        "Superflamme",
+        "Superbang",
+        "Megaflamme",
+        "Megabang",
+        "Defense Flamme"
+      ]
+    },
+    {
+      "SetName": "Flamme et Tornade II",
+      "aptitudes": [
+        "Lame de vent",
+        "Lame de feu",
+        "Supertornade",
+        "Superflamme",
+        "Megatornade",
+        "Megaflamme",
+        "Defense Flamme"
+      ]
+    },
+    {
+      "SetName": "Flamme et Foudre II",
+      "aptitudes": [
+        "Lame de feu",
+        "Lame benie",
+        "Superflamme",
+        "Superfoudre",
+        "Megaflamme",
+        "Megafoudre",
+        "Defense Flamme"
+      ]
+    },
+    {
+      "SetName": "Flamme et Elec II",
+      "aptitudes": [
+        "Lame de feu",
+        "Lame sombre",
+        "Superelec",
+        "Superflamme",
+        "Megaelec",
+        "Megaflamme",
+        "Defense Flamme"
+      ]
+    },
+    {
+      "SetName": "Flamme et Crame II",
+      "aptitudes": [
+        "Lame de feu",
+        "Lame d'eclair",
+        "Superflamme",
+        "Supercrame",
+        "Megaflamme",
+        "Megacrame",
+        "Defense Flamme"
+      ]
+    },
+    {
+      "SetName": "Bang et Tornade II",
+      "aptitudes": [
+        "Supertornade",
+        "Lame detonante",
+        "Lame de vent",
+        "Superbang",
+        "Megatornade",
+        "Megabang",
+        "Defense Bang"
+      ]
+    },
+    {
+      "SetName": "Bang et Glace II",
+      "aptitudes": [
+        "Lame detonante",
+        "Lame de gel",
+        "Superglace",
+        "Superbang",
+        "Megaglace",
+        "Megabang",
+        "Defense Bang"
+      ]
+    },
+    {
+      "SetName": "Bang et Foudre II",
+      "aptitudes": [
+        "Lame detonante",
+        "Lame benie",
+        "Superfoudre",
+        "Superbang",
+        "Megafoudre",
+        "Megabang",
+        "Defense Bang"
+      ]
+    },
+    {
+      "SetName": "Bang et Elec II",
+      "aptitudes": [
+        "Lame detonante",
+        "Lame sombre",
+        "Superelec",
+        "Superbang",
+        "Megaelec",
+        "Megabang",
+        "Defense Elec"
+      ]
+    },
+    {
+      "SetName": "Bang et Crame II",
+      "aptitudes": [
+        "Supercrame",
+        "Lame detonante",
+        "Lame d'eclair",
+        "Superbang",
+        "Megacrame",
+        "Megabang",
+        "Defense Bang"
+      ]
+    },
+    {
+      "SetName": "Flamme et Bang III",
+      "aptitudes": [
+        "Megaflamme",
+        "Megabang",
+        "Lame infernale",
+        "Lame explosive",
+        "Gigaflamme",
+        "Gigabang",
+        "Defense Flamme",
+        "Defense Bang"
+      ]
+    },
+    {
+      "SetName": "Flamme et Tornade III",
+      "aptitudes": [
+        "Megatornade",
+        "Megaflamme",
+        "Lame d'Eole",
+        "Lame infernale",
+        "Gigatornade",
+        "Gigaflamme",
+        "Defense Flamme",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Flamme et Foudre III",
+      "aptitudes": [
+        "Megaflamme",
+        "Megafoudre",
+        "Lame infernale",
+        "Lame sacree",
+        "Gigaflamme",
+        "Gigafoudre",
+        "Defense Flamme",
+        "Defense Foudre"
+      ]
+    },
+    {
+      "SetName": "Flamme et Elec III",
+      "aptitudes": [
+        "Megaflamme",
+        "Megaelec",
+        "Lame infernale",
+        "Lame tenebreuse",
+        "Gigaflamme",
+        "Gigaelec",
+        "Defense Flamme",
+        "Defense Elec"
+      ]
+    },
+    {
+      "SetName": "Flamme et Crame III",
+      "aptitudes": [
+        "Megaflamme",
+        "Megacrame",
+        "Lame infernale",
+        "Lame de Zeus",
+        "Gigaflamme",
+        "Gigacrame",
+        "Defense Flamme",
+        "Defense Crame"
+      ]
+    },
+    {
+      "SetName": "Bang et Tornade III",
+      "aptitudes": [
+        "Megatornade",
+        "Megabang",
+        "Lame explosive",
+        "Lame d'Eole",
+        "Gigatonade",
+        "Gigabang",
+        "Defense Bang",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Bang et Glace III",
+      "aptitudes": [
+        "Megaglace",
+        "Megabang",
+        "Lame explosive",
+        "Lame de blizzard",
+        "Gigaglace",
+        "Gigabang",
+        "Defense Bang",
+        "Defense Glace"
+      ]
+    },
+    {
+      "SetName": "Bang et Foudre III",
+      "aptitudes": [
+        "Megafoudre",
+        "Megabang",
+        "Lame explosive",
+        "Lame sacree",
+        "Gigafoudre",
+        "Gigabang",
+        "Defense Bang",
+        "Defense Foudre"
+      ]
+    },
+    {
+      "SetName": "Bang et Elec III",
+      "aptitudes": [
+        "Megaelec",
+        "Megabang",
+        "Lame explosive",
+        "Lame tenebreuse",
+        "Gigaelec",
+        "Gigabang",
+        "Defense Bang",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Bang et Crame III",
+      "aptitudes": [
+        "Megacrame",
+        "Megabang",
+        "Lame explosive",
+        "Lame de Zeus",
+        "Gigacrame",
+        "Gigabang",
+        "Defense Bang",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Tornade et Glace",
+      "aptitudes": [
+        "Tornade",
+        "Glace",
+        "Supertornade",
+        "Lame de vent",
+        "Lame de gel",
+        "Superglace"
+      ]
+    },
+    {
+      "SetName": "Tornade et Foudre",
+      "aptitudes": [
+        "Tornade",
+        "Foudre",
+        "Supertornade",
+        "Lame de vent",
+        "Lame benie",
+        "Superfoudre"
+      ]
+    },
+    {
+      "SetName": "Tornade et Elec",
+      "aptitudes": [
+        "Tornade",
+        "Elec",
+        "Supertornade",
+        "Lame de vent",
+        "Lame sombre",
+        "Superelec"
+      ]
+    },
+    {
+      "SetName": "Tornade et Crame",
+      "aptitudes": [
+        "Tornade",
+        "Crame",
+        "Supertornade",
+        "Lame de vent",
+        "Lame d'eclair",
+        "Supercrame"
+      ]
+    },
+    {
+      "SetName": "Glace et Foudre",
+      "aptitudes": [
+        "Glace",
+        "Foudre",
+        "Lame de gel",
+        "Lame benie",
+        "Superfoudre",
+        "Superglace"
+      ]
+    },
+    {
+      "SetName": "Glace et Elec",
+      "aptitudes": [
+        "Glace",
+        "Lame de gel",
+        "Elec",
+        "Lame sombre",
+        "Superelec",
+        "Superglace"
+      ]
+    },
+    {
+      "SetName": "Glace et Crame",
+      "aptitudes": [
+        "Glace",
+        "Crame",
+        "Lame de gel",
+        "Lame d'eclair",
+        "Supercrame",
+        "Superglace"
+      ]
+    },
+    {
+      "SetName": "Crame et Foudre",
+      "aptitudes": [
+        "Crame",
+        "Lame d'eclair",
+        "Foudre",
+        "Lame benie",
+        "Supercrame",
+        "Superfoudre"
+      ]
+    },
+    {
+      "SetName": "Crame et Elec",
+      "aptitudes": [
+        "Crame",
+        "Elec",
+        "Lame d'eclair",
+        "Lame sombre",
+        "Superelec",
+        "Supercrame"
+      ]
+    },
+    {
+      "SetName": "Tornade et Glace II",
+      "aptitudes": [
+        "Supertornade",
+        "Lame de vent",
+        "Lame de gel",
+        "Superglace",
+        "Megatornade",
+        "Megaglace",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Tornade et Foudre II",
+      "aptitudes": [
+        "Supertornade",
+        "Lame de vent",
+        "Lame benie",
+        "Superfoudre",
+        "Megatornade",
+        "Megafoudre",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Tornade et Elec II",
+      "aptitudes": [
+        "Supertornade",
+        "Lame de vent",
+        "Lame sombre",
+        "Superelec",
+        "Megatornade",
+        "Megaelec",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Tornade et Crame II",
+      "aptitudes": [
+        "Supertornade",
+        "Lame de vent",
+        "Lame d'eclair",
+        "Supercrame",
+        "Megatornade",
+        "Megacrame",
+        "Defense Tornade"
+      ]
+    },
+    {
+      "SetName": "Glace et Foudre II",
+      "aptitudes": [
+        "Lame de gel",
+        "Lame benie",
+        "Superfoudre",
+        "Superglace",
+        "Megaglace",
+        "Megafoudre",
+        "Defense Glace"
+      ]
+    },
+    {
+      "SetName": "Glace et Elec II",
+      "aptitudes": [
+        "Lame de gel",
+        "Lame sombre",
+        "Superelec",
+        "Superglace",
+        "Megaglace",
+        "Megaelec",
+        "Defense Glace"
+      ]
+    },
+    {
+      "SetName": "Glace et Crame II",
+      "aptitudes": [
+        "Lame de gel",
+        "Lame d'eclair",
+        "Supercrame",
+        "Superglace",
+        "Megaglace",
+        "Megacrame",
+        "Defense Glace"
+      ]
+    },
+    {
+      "SetName": "Crame et Foudre II",
+      "aptitudes": [
+        "Lame d'eclair",
+        "Lame benie",
+        "Supercrame",
+        "Superfoudre",
+        "Megacrame",
+        "Megafoudre",
+        "Defense Crame"
+      ]
+    },
+    {
+      "SetName": "Crame et Elec II",
+      "aptitudes": [
+        "Lame d'eclair",
+        "Lame sombre",
+        "Superelec",
+        "Supercrame",
+        "Megaelec",
+        "Megacrame",
+        "Defense Crame"
+      ]
+    },
+    {
+      "SetName": "Tornade et Glace III",
+      "aptitudes": [
+        "Megatornade",
+        "Megaglace",
+        "Lame d'Eole",
+        "Lame de blizzard",
+        "Gigatonade",
+        "Gigaglace",
+        "Defense Tornade",
+        "Defense Glace"
+      ]
+    },
+    {
+      "SetName": "Tornade et Foudre III",
+      "aptitudes": [
+        "Megatornade",
+        "Megafoudre",
+        "Lame d'Eole",
+        "Lame sacree",
+        "Gigafoudre",
+        "Gigatonade",
+        "Defense Tornade",
+        "Defense Foudre"
+      ]
+    },
+    {
+      "SetName": "Tornade et Elec III",
+      "aptitudes": [
+        "Megatornade",
+        "Megaelec",
+        "Lame d'Eole",
+        "Lame tenebreuse",
+        "Gigatonade",
+        "Gigaelec",
+        "Defense Tornade",
+        "Defense Elec"
+      ]
+    },
+    {
+      "SetName": "Tornade et Crame III",
+      "aptitudes": [
+        "Megatornade",
+        "Megacrame",
+        "Lame d'Eole",
+        "Lame de Zeus",
+        "Gigatonade",
+        "Gigacrame",
+        "Defense Tornade",
+        "Defense Crame"
+      ]
+    },
+    {
+      "SetName": "Glace et Foudre III",
+      "aptitudes": [
+        "Megaglace",
+        "Megafoudre",
+        "Lame de blizzard",
+        "Lame sacree",
+        "Gigaglace",
+        "Gigafoudre",
+        "Defense Glace",
+        "Defense Foudre"
+      ]
+    },
+    {
+      "SetName": "Glace et Elec III",
+      "aptitudes": [
+        "Megaglace",
+        "Megaelec",
+        "Lame de blizzard",
+        "Lame tenebreuse",
+        "Gigaglace",
+        "Gigaelec",
+        "Defense Glace",
+        "Defense Elec"
+      ]
+    },
+    {
+      "SetName": "Glace et Crame III",
+      "aptitudes": [
+        "Megaglace",
+        "Megacrame",
+        "Lame de blizzard",
+        "Lame de Zeus",
+        "Gigaglace",
+        "Gigacrame",
+        "Defense Glace",
+        "Defense Crame"
+      ]
+    },
+    {
+      "SetName": "Crame et Foudre III",
+      "aptitudes": [
+        "Megacrame",
+        "Megafoudre",
+        "Lame de Zeus",
+        "Lame sacree",
+        "Gigacrame",
+        "Gigafoudre",
+        "Defense Crame",
+        "Defense Foudre"
+      ]
+    },
+    {
+      "SetName": "Crame et Elec III",
+      "aptitudes": [
+        "Megacrame",
+        "Megaelec",
+        "Lame de Zeus",
+        "Lame tenebreuse",
+        "Gigacrame",
+        "Gigaelec",
+        "Defense Crame",
+        "Defense Elec"
+      ]
+    },
+    {
+      "SetName": "Feu",
+      "aptitudes": [
+        "Flamme",
+        "Souffle de feu",
+        "Lame de feu",
+        "Cracheflamme",
+        "Superflamme",
+        "Grand inspiration"
+      ]
+    },
+    {
+      "SetName": "Gel",
+      "aptitudes": [
+        "Souffle frais",
+        "Glace",
+        "Souffle froid",
+        "Lame de gel",
+        "Supeglace",
+        "Grand inspiration"
+      ]
+    },
+    {
+      "SetName": "Souffle",
+      "aptitudes": [
+        "Souffle de feu",
+        "Souffle frais",
+        "Cracheflamme",
+        "Souffle froid",
+        "Retrosouffle",
+        "Grand inspiration"
+      ]
+    },
+    {
+      "SetName": "Feu II",
+      "aptitudes": [
+        "Cracheflamme",
+        "Lame de feu",
+        "Superflamme",
+        "Grand inspiration",
+        "Inferno",
+        "Megaflamme",
+        "Defense Lame-en-peine"
+      ]
+    },
+    {
+      "SetName": "Gel II",
+      "aptitudes": [
+        "Souffle froid",
+        "Lame de gel",
+        "Supeglace",
+        "Grand inspiration",
+        "Souffle de givre",
+        "Megaglace",
+        "Defense Raptitude"
+      ]
+    },
+    {
+      "SetName": "Souffle II",
+      "aptitudes": [
+        "Cracheflamme",
+        "Souffle froid",
+        "Retrosouffle",
+        "Grand inspiration",
+        "Inferno",
+        "Souffle de givre",
+        "Defense Affaiblo"
+      ]
+    },
+    {
+      "SetName": "Feu III",
+      "aptitudes": [
+        "Grand inspiration",
+        "Inferno",
+        "Lame infernale",
+        "Megaflamme",
+        "Brulure",
+        "Gigaflamme",
+        "Defense Raptitude",
+        "Defense Souffle de feu"
+      ]
+    },
+    {
+      "SetName": "Gel III",
+      "aptitudes": [
+        "Grand inspiration",
+        "Souffle de givre",
+        "Lame de blizzard",
+        "Megaglace",
+        "Souffle gla-glacial",
+        "Gigaglace",
+        "Defense Lame-en-peine",
+        "Defense Souffle glacial"
+      ]
+    },
+    {
+      "SetName": "Souffle III",
+      "aptitudes": [
+        "Retrosouffle",
+        "Grand inspiration",
+        "Inferno",
+        "Souffle de givre",
+        "Brulure",
+        "Souffle gla-glacial",
+        "Defense Souffle de feu",
+        "Defense Souffle glacial"
+      ]
+    },
+    {
+      "SetName": "Lames Vent-Feu",
+      "aptitudes": [
+        "Lame de feu",
+        "Lame de vent",
+        "Lame detonante",
+        "Lame du dragon",
+        "Lame infernale",
+        "Lame d'Eole",
+        "Lame explosive",
+        "Multipoing"
+      ]
+    },
+    {
+      "SetName": "Lames Vent-Eclairs",
+      "aptitudes": [
+        "Lame de feu",
+        "Lame sombre",
+        "Lame d'eclair",
+        "Lame d'Hermes",
+        "Lame d'Eole",
+        "Lame tenebreuse",
+        "Lame de Zeus",
+        "Coup miraculeux"
+      ]
+    },
+    {
+      "SetName": "Lames Gel-Explosion",
+      "aptitudes": [
+        "Lame de gel",
+        "Lame benie",
+        "Lame detonante",
+        "Lame de metal",
+        "Lame de blizzard",
+        "Lame sacree",
+        "Lame explosive",
+        "Multipoing"
+      ]
+    },
+    {
+      "SetName": "Lames Luminombre",
+      "aptitudes": [
+        "Lame de gel",
+        "Lame benie",
+        "Lame sombre",
+        "Mysterreur",
+        "Lame de blizzard",
+        "Lame sacree",
+        "Lame tenebreuse",
+        "Coup miraculeux"
+      ]
+    },
+    {
+      "SetName": "Combattant du feu",
+      "aptitudes": [
+        "Flamme",
+        "Brise-casque",
+        "Gluanticide",
+        "Ecrasement",
+        "Superflamme",
+        "Stimulation",
+        "Lame infernale",
+        "Loterie Attaque"
+      ]
+    },
+    {
+      "SetName": "Guerrier explosif",
+      "aptitudes": [
+        "Bang",
+        "Sabetage",
+        "Encollage",
+        "Antipoison",
+        "Superbang",
+        "Un-contre-un",
+        "Lame explosive",
+        "Loterie PV"
+      ]
+    },
+    {
+      "SetName": "Souffleur de vent",
+      "aptitudes": [
+        "Tornade",
+        "Danse d'esquive",
+        "Demonlition",
+        "Vent coupant",
+        "Supertornade",
+        "Coup d'Hermes",
+        "Lame d'Eole",
+        "Loterie Defense"
+      ]
+    },
+    {
+      "SetName": "Maestrogel",
+      "aptitudes": [
+        "Glace",
+        "Terminature",
+        "Lechouille",
+        "Coupe-souffle",
+        "Superglace",
+        "Meditation",
+        "Lame de blizzard",
+        "Loterie Agilite"
+      ]
+    },
+    {
+      "SetName": "Chevalier blanc",
+      "aptitudes": [
+        "Foudre",
+        "Antimatiere",
+        "Attaque eblouisante",
+        "Coup de l'assomoir",
+        "Superfoudre",
+        "Frappe lenifiante",
+        "Lame sacree",
+        "Loterie Sagesse"
+      ]
+    },
+    {
+      "SetName": "Chevalier blanc2",
+      "aptitudes": [
+        "Elec",
+        "Zombiphobie",
+        "Claquettes",
+        "Deconfuz",
+        "Superelec",
+        "Baffaiblissante",
+        "Lame tenebreuse",
+        "Loterie PM"
+      ]
+    },
+    {
+      "SetName": "Soigneur",
+      "aptitudes": [
+        "Premiers secours",
+        "Protection",
+        "Soins partiels",
+        "Rappel",
+        "Soins reguliers",
+        "Meditation",
+        "Megasoin",
+        "Resurrection"
+      ]
+    },
+    {
+      "SetName": "Guerisseur",
+      "aptitudes": [
+        "Premiers secours",
+        "Stimulation",
+        "Megaprotection",
+        "Multisoin",
+        "Vague de soulagement",
+        "Pluie salvatrice",
+        "Chant redemteur",
+        "Omnisoin"
+      ]
+    },
+    {
+      "SetName": "Nettoyeur",
+      "aptitudes": [
+        "Antipoison",
+        "Stimulation",
+        "Deconfuz",
+        "Rappel",
+        "Pluie salvatrice",
+        "Vague de soulagement",
+        "Resurrection",
+        "Perturbonde"
+      ]
+    },
+    {
+      "SetName": "Champion",
+      "aptitudes": [
+        "Double-lame",
+        "Demonlition",
+        "Coup double",
+        "Decuplo",
+        "Zombiphobie",
+        "Meditation",
+        "Superdecuplo",
+        "Defense Affaiblo"
+      ]
+    },
+    {
+      "SetName": "Defenseur",
+      "aptitudes": [
+        "Protection",
+        "Premiers secours",
+        "Attaque eblouisante",
+        "Megaprotection",
+        "Defense ultime",
+        "Soin partiels",
+        "Baffaiblissante",
+        "Altruisme",
+        "Defense Alteration"
+      ]
+    },
+    {
+      "SetName": "Accelerateur",
+      "aptitudes": [
+        "Accelero",
+        "Premiers secours",
+        "Decelero",
+        "Danse d'esquive",
+        "Tempete de sable",
+        "Supperaccelero",
+        "Coup d'Hermes",
+        "Entracte",
+        "Defense Decelero"
+      ]
+    },
+    {
+      "SetName": "Aide magique",
+      "aptitudes": [
+        "Aspirmagie",
+        "Abracadaplouf",
+        "Partage de magie",
+        "Antimagie",
+        "Reassort au hasard",
+        "Superantimagie",
+        "Don de magie",
+        "Defense Aspirmagie",
+        "Defense Simplet"
+      ]
+    },
+    {
+      "SetName": "Energisant",
+      "aptitudes": [
+        "Accelero",
+        "Premiers secours",
+        "Protection",
+        "Tilt",
+        "Decuplo",
+        "Supperaccelero",
+        "Megaprotection",
+        "Supertilt",
+        "Superdecuplo"
+      ]
+    },
+    {
+      "SetName": "Emollient",
+      "aptitudes": [
+        "Affaiblo",
+        "Simplet",
+        "Baffaiblissante",
+        "Frappe lemifiante",
+        "Megaffaiblo",
+        "Supersimplet",
+        "Defense Affaiblo",
+        "Defense Simplet"
+      ]
+    },
+    {
+      "SetName": "Saboteur",
+      "aptitudes": [
+        "Decelero",
+        "Alteration",
+        "Tactifige",
+        "Encollage",
+        "Superdecelero",
+        "Megalteration",
+        "Aha",
+        "Defense Alteration",
+        "Defense Decelero"
+      ]
+    },
+    {
+      "SetName": "Antimage",
+      "aptitudes": [
+        "Antimagie",
+        "Faille magique",
+        "Tilt",
+        "Simplet",
+        "Barriere magique",
+        "Frappe lenifiante",
+        "Reflection",
+        "Defense Simplet",
+        "Defense Antimagie"
+      ]
+    },
+    {
+      "SetName": "Anti-dragon",
+      "aptitudes": [
+        "Lame du dragon",
+        "Isolation",
+        "Retrosouffle",
+        "Hygiaphone",
+        "Coupe-soufflle",
+        "Superisolation",
+        "Vent contraire",
+        "Defense Souffle de feu",
+        "Defense souffle glacial"
+      ]
+    },
+    {
+      "SetName": "Anti-metal",
+      "aptitudes": [
+        "Accelero",
+        "Lame de metal",
+        "Decuplo",
+        "Faille magique",
+        "Superaccelero",
+        "Coupe claire",
+        "Agilite +30",
+        "Laminage"
+      ]
+    },
+    {
+      "SetName": "Soutien",
+      "aptitudes": [
+        "Protection",
+        "Tempete de sable",
+        "Isolation",
+        "Megaprotection",
+        "Superisolation",
+        "Altruisme",
+        "Barriere magique",
+        "Brume de bataille",
+        "Defense alteration"
+      ]
+    },
+    {
+      "SetName": "Barricadeur",
+      "aptitudes": [
+        "Megaprotection",
+        "Retrosouffle",
+        "Defense ultime",
+        "Immoblindage",
+        "Vent contraire",
+        "Reflection",
+        "Brume de bataille",
+        "Riposte",
+        "Defense alteration"
+      ]
+    },
+    {
+      "SetName": "Bloqueur",
+      "aptitudes": [
+        "Coupe-souffle",
+        "Break-dance",
+        "Superantimagie",
+        "Faille magique",
+        "Plantage critique",
+        "Antidanse",
+        "Hygiaphone",
+        "Raptitude",
+        "Lame-en-peine"
+      ]
+    },
+    {
+      "SetName": "Hypnotiseur",
+      "aptitudes": [
+        "Torpeur",
+        "Illusion",
+        "Confusion",
+        "Haleine fetide",
+        "Lechouille",
+        "Megatorpeur",
+        "Superconfusion",
+        "Defense confusion",
+        "Defense sommeil"
+      ]
+    },
+    {
+      "SetName": "Intoxicateur",
+      "aptitudes": [
+        "Pique empoisonee",
+        "Haleine empoisonnee",
+        "Frappe paralysante",
+        "Souffle brulant",
+        "Haleine veneneuse",
+        "Volee veneneuse",
+        "Defense Poison",
+        "Defense Paralysie"
+      ]
+    },
+    {
+      "SetName": "Marchand de peur",
+      "aptitudes": [
+        "Creve-coeur",
+        "Confusion",
+        "Lechouille",
+        "Haleine fetide",
+        "Coup de l'assommoir",
+        "Frenesie",
+        "Superconfusion",
+        "Defense Inaction",
+        "Defense Confusion"
+      ]
+    },
+    {
+      "SetName": "Mauvaise haleine",
+      "aptitudes": [
+        "Haleine empoisonnee",
+        "Haleine fraiche",
+        "Retrosouffle",
+        "Haleine fetide",
+        "Vent contraire",
+        "Souffle brulant",
+        "Haleine veneneuse",
+        "Defense Poison"
+      ]
+    },
+    {
+      "SetName": "Antimage II",
+      "aptitudes": [
+        "Superantimagie",
+        "Faille magique",
+        "Barriere magique",
+        "Reflection",
+        "Supersimplet",
+        "Supertilt",
+        "Embrouillard",
+        "Defense simplet",
+        "Defense Antimagie"
+      ]
+    },
+    {
+      "SetName": "Reducteur",
+      "aptitudes": [
+        "Encolage",
+        "Baffaiblissante",
+        "Frappe lenifiante",
+        "Lame-en-peine",
+        "Coupe-souffle",
+        "Break-dance",
+        "Frappe aveuglante",
+        "Raptitude"
+      ]
+    },
+    {
+      "SetName": "Reducteur2",
+      "aptitudes": [
+        "Creve-coeur",
+        "Encollage",
+        "Pique empoisonnee",
+        "Coup de l'assomoir",
+        "Frappe aveuglante",
+        "Danse d'esquive",
+        "Frappe paralysante",
+        "Volee veneneuse",
+        "Vent contraire"
+      ]
+    },
+    {
+      "SetName": "Assassin",
+      "aptitudes": [
+        "Frappe lethargique",
+        "Frappe paralysante",
+        "Demonlition",
+        "Attaque ebouillsante",
+        "Coup de l'assomoir",
+        "Zombiphobie",
+        "Frenesie",
+        "Coup de l'assassin",
+        "Defense Kill"
+      ]
+    },
+    {
+      "SetName": "Chasseur",
+      "aptitudes": [
+        "Frappe lethargique",
+        "Grippe-sous",
+        "Klepto manne",
+        "Lame de metal",
+        "Lame du dragon",
+        "Coup double",
+        "Gluanticide",
+        "Mysterreur"
+      ]
+    },
+    {
+      "SetName": "Chasseur de prime",
+      "aptitudes": [
+        "Klepto manne",
+        "Antimatiere",
+        "Grippe-sous",
+        "Coup d'hermes",
+        "Lame de metal",
+        "Frappe paralysante",
+        "Coup de l'assassin",
+        "Laminage"
+      ]
+    },
+    {
+      "SetName": "Croise",
+      "aptitudes": [
+        "Coup miraculeux",
+        "Multisoin",
+        "Superfoudre",
+        "Vague de soulagement",
+        "Soins reguliers",
+        "Prerappel",
+        "Omnisoin",
+        "Megafoudre",
+        "Defense Foudre"
+      ]
+    },
+    {
+      "SetName": "Necromant",
+      "aptitudes": [
+        "Double-lame",
+        "Lest",
+        "Vague de panique",
+        "Kill",
+        "Frenesie",
+        "Superkill",
+        "Megalest",
+        "Defense Elec",
+        "Defense Kill"
+      ]
+    },
+    {
+      "SetName": "Feunoir",
+      "aptitudes": [
+        "Confusion",
+        "Grill",
+        "Lest",
+        "Frenesie",
+        "Coup de l'assassin",
+        "Kill",
+        "Mysterreur",
+        "Barbecue",
+        "Explosion magique"
+      ]
+    },
+    {
+      "SetName": "Gelnoir",
+      "aptitudes": [
+        "Souffle frais",
+        "Elec",
+        "Zombiphobie",
+        "Souffle froid",
+        "Superelec",
+        "Embrouillard",
+        "Vague de panique",
+        "Megaelec"
+      ]
+    },
+    {
+      "SetName": "Danseur",
+      "aptitudes": [
+        "Danse d'esquive",
+        "Drole de danse",
+        "Danse de confusion",
+        "Claquettes",
+        "Danse sensuelle",
+        "Antidanse",
+        "Danse des soins",
+        "Danse de la mort",
+        "Danse de conjuration"
+      ]
+    },
+    {
+      "SetName": "Bombardier",
+      "aptitudes": [
+        "Lapidaction",
+        "Lame detonante",
+        "Kamikaze",
+        "Ricochet",
+        "Conjuration",
+        "Lame explosive",
+        "Rock'n'Roll",
+        "Defense Lest"
+      ]
+    },
+    {
+      "SetName": "Costaud",
+      "aptitudes": [
+        "Tempete de sable",
+        "Ecrasement",
+        "Retrosouffle",
+        "Danse sensuelle",
+        "Cri de guerre",
+        "Danse des soins",
+        "Un-contre-un",
+        "Riposte"
+      ]
+    },
+    {
+      "SetName": "Berserker",
+      "aptitudes": [
+        "Double-lame",
+        "Ecrasement",
+        "Coup double",
+        "Un-contre-un",
+        "Frenesie",
+        "Coupe claire",
+        "Danse de conjuration",
+        "Defense Affaiblo"
+      ]
+    },
+    {
+      "SetName": "Berserker2",
+      "aptitudes": [
+        "Double-lame",
+        "Ecrasement",
+        "Retrosouffle",
+        "Coup double",
+        "Un-contre-un",
+        "Altruisme",
+        "Kamikaze",
+        "Danse de conjuration",
+        "Conjuration"
+      ]
+    },
+    {
+      "SetName": "Faucheur",
+      "aptitudes": [
+        "Brise-casque",
+        "Demonlition",
+        "Souffle frais",
+        "Kill",
+        "Souffle froid",
+        "Coup de l'assassin",
+        "Danse de la mort",
+        "Vague de panique",
+        "Superkill"
+      ]
+    },
+    {
+      "SetName": "Cauchemar",
+      "aptitudes": [
+        "Aspiration",
+        "Frappe lethargique",
+        "Haleine Fraiche",
+        "Aura de peur",
+        "Danse de la mort",
+        "Vague de panique",
+        "Defense Sommeil",
+        "Defense Aspirmagie"
+      ]
+    },
+    {
+      "SetName": "Glacommeil",
+      "aptitudes": [
+        "Torpeur",
+        "Souffle frais",
+        "Frappe lethgargique",
+        "Kill",
+        "Souffle froid",
+        "Megatorpeur",
+        "Defense Sommeil",
+        "Defense Hygiaphone"
+      ]
+    },
+    {
+      "SetName": "Clerc",
+      "aptitudes": [
+        "Superfoudre",
+        "Multisoin",
+        "Soins reguiliers",
+        "Megafoudre",
+        "Gigaslash",
+        "Omnisoin",
+        "Gigagash",
+        "Defense Foudre"
+      ]
+    },
+    {
+      "SetName": "Aquapothicaire",
+      "aptitudes": [
+        "Premiers secours",
+        "Giclette",
+        "Danse sensuelle",
+        "Soins partiels",
+        "Brume de bataille",
+        "Geyser",
+        "Pluie salvatrice",
+        "Chant redempteur",
+        "Regeneration magique"
+      ]
+    },
+    {
+      "SetName": "Touche-a-tout",
+      "aptitudes": [
+        "Haleine empoisonnee",
+        "Drole de danse",
+        "Baffaiblissante",
+        "Danse de confusion",
+        "Haleine fetide",
+        "Break-dance",
+        "Plantage critique",
+        "Pluie salvatrice",
+        "Chant redempteur"
+      ]
+    },
+    {
+      "SetName": "Mime",
+      "aptitudes": [
+        "Claquette",
+        "Aura de peur",
+        "Danse sensuelle",
+        "Antidanse",
+        "Hygiaphone",
+        "Lechouille",
+        "Danse des soins",
+        "Defense Antidanse"
+      ]
+    },
+    {
+      "SetName": "Illusionniste",
+      "aptitudes": [
+        "Decelero",
+        "Double-lame",
+        "Drole de danse",
+        "Superdecelero",
+        "Simplet",
+        "Coupe-souffle",
+        "Break-dance",
+        "Frappe lenifiante",
+        "Retrosouffle"
+      ]
+    },
+    {
+      "SetName": "Pot de glu",
+      "aptitudes": [
+        "Flamme",
+        "Premiers secours",
+        "Foudre",
+        "Ecrasement",
+        "Attaque eblouissante",
+        "Affaiblo",
+        "Soins partiels",
+        "Partage de magie",
+        "Recuperation reguliere"
+      ]
+    },
+    {
+      "SetName": "Naturaliste",
+      "aptitudes": [
+        "Creve-coeur",
+        "Tempete de sable",
+        "Lame du dragon",
+        "Ecrasement",
+        "Coup d'Hermes",
+        "Lechouille",
+        "Cri de guerre",
+        "Mysterreur",
+        "Coupe claire"
+      ]
+    },
+    {
+      "SetName": "Zombivant",
+      "aptitudes": [
+        "Pique empoisonnee",
+        "Brise-casque",
+        "Frappe lethargique",
+        "Encollage",
+        "Haleine fraiche",
+        "Volee veneneuse",
+        "Kamikaze",
+        "Defense Kill"
+      ]
+    },
+    {
+      "SetName": "Thaumaturge",
+      "aptitudes": [
+        "Antimagie",
+        "Lest",
+        "Aha",
+        "Superantimagie",
+        "Faille magique",
+        "Affaible",
+        "Kill",
+        "Barriere magique",
+        "Desordre"
+      ]
+    },
+    {
+      "SetName": "Dragophile",
+      "aptitudes": [
+        "Souffle de feu",
+        "Souffle frais",
+        "Tempete de sable",
+        "Cri de guerre",
+        "Lapidaction",
+        "Gril",
+        "Vent coupant",
+        "Souffle froid",
+        "Cracheflamme"
+      ]
+    },
+    {
+      "SetName": "Crane de piaf",
+      "aptitudes": [
+        "Accelero",
+        "Vent coupant",
+        "Superaccelero",
+        "Isolation",
+        "Tempete de sable",
+        "Multi-lame",
+        "Superisolation",
+        "Vent contraire",
+        "Trou d'air"
+      ]
+    },
+    {
+      "SetName": "Botaniste",
+      "aptitudes": [
+        "Antipoison",
+        "Stimulation",
+        "Soins partiels",
+        "Deconfuz",
+        "Partage de magie",
+        "Drole de danse",
+        "Chant redempteur",
+        "Claquettes",
+        "Coup miraculeux"
+      ]
+    },
+    {
+      "SetName": "Cafardeur",
+      "aptitudes": [
+        "Protection",
+        "Torpeur",
+        "Creve-coeur",
+        "Frappe lethargique",
+        "Frappe paralysante",
+        "Terminature",
+        "Defense ultime",
+        "Danse de confusion",
+        "Danse des soins"
+      ]
+    },
+    {
+      "SetName": "Materialiste",
+      "aptitudes": [
+        "Brise-casque",
+        "Lame de metal",
+        "Coupe claire",
+        "Megaprotection",
+        "Reflection",
+        "Antimatiere",
+        "Kamikaze",
+        "Conjuration"
+      ]
+    },
+    {
+      "SetName": "Apik",
+      "aptitudes": [
+        "Foudre",
+        "Decuplo",
+        "Lame d'eclair",
+        "Etincelle",
+        "Superfoudre",
+        "Affaiblo",
+        "Eclair",
+        "Recuperation reguliere"
+      ]
+    },
+    {
+      "SetName": "Akoeur",
+      "aptitudes": [
+        "Flamme",
+        "Torpeur",
+        "Lame de feu",
+        "Superflamme",
+        "Gril",
+        "Illusion",
+        "Barbecue",
+        "Recuperation magique"
+      ]
+    },
+    {
+      "SetName": "Akaro",
+      "aptitudes": [
+        "Glace",
+        "Soins partiels",
+        "Giclette",
+        "Lame de gel",
+        "Superglace",
+        "Rappel",
+        "Geyser",
+        "Laminage"
+      ]
+    },
+    {
+      "SetName": "Atrefle",
+      "aptitudes": [
+        "Bang",
+        "Lapidation",
+        "Protection",
+        "Lame detonante",
+        "Superbang",
+        "Alteration",
+        "Ricochet",
+        "Maitre d'armes"
+      ]
+    },
+    {
+      "SetName": "Joker",
+      "aptitudes": [
+        "Cremation",
+        "Raz-de-maree",
+        "Lame-en-peine",
+        "Rock'n'Roll",
+        "Defense Paralysie",
+        "Orage d'eclairs",
+        "Danse des soins",
+        "Ouragan",
+        "Megalest"
+      ]
+    },
+    {
+      "SetName": "Apik II",
+      "aptitudes": [
+        "Superfoudre",
+        "superdecuplo",
+        "Eclair",
+        "Lame de Zeus",
+        "Orage d'eclair",
+        "Megafoudre",
+        "Megaffaiblo",
+        "Toxicite",
+        "Defense Illusion"
+      ]
+    },
+    {
+      "SetName": "Akoeur II",
+      "aptitudes": [
+        "Superflamme",
+        "Illusion",
+        "Lame infernale",
+        "Megaflamme",
+        "Barbecue",
+        "Cremation",
+        "Megatorpeur",
+        "Confusite",
+        "Defense Antidanse"
+      ]
+    },
+    {
+      "SetName": "Akaro II",
+      "aptitudes": [
+        "Superglace",
+        "Megasoin",
+        "Geyser",
+        "Lame de blizzard",
+        "Megaglace",
+        "Raz-de-maree",
+        "Resurrection",
+        "Paralysite",
+        "Defense Paralysie"
+      ]
+    },
+    {
+      "SetName": "Atrefle II",
+      "aptitudes": [
+        "Superbang",
+        "Megaprotection",
+        "Ricochet",
+        "Lame explosive",
+        "Rock'n'Roll",
+        "Megalteration",
+        "Megabang",
+        "Dormite",
+        "Defense Inaction"
+      ]
+    },
+    {
+      "SetName": "Apik III",
+      "aptitudes": [
+        "Plantage critique",
+        "Superconfusion",
+        "Riposte",
+        "Kamikaze",
+        "Superdecuplo",
+        "Megaffaiblo",
+        "Conjuration",
+        "Defense Raptitude"
+      ]
+    },
+    {
+      "SetName": "Akoeur III",
+      "aptitudes": [
+        "Premiers secours",
+        "Rappel",
+        "Soins partiels",
+        "Multisoin",
+        "Vague de soulagement",
+        "Soins reguliers",
+        "Megasoin",
+        "Resurrection",
+        "Omnisoin"
+      ]
+    },
+    {
+      "SetName": "Akaro III",
+      "aptitudes": [
+        "Superglace",
+        "Superbang",
+        "Attaque eblouissante",
+        "Perturbonde",
+        "Megaglace",
+        "Megabang",
+        "Gigaslash",
+        "Explosion magique"
+      ]
+    },
+    {
+      "SetName": "Atrefle III",
+      "aptitudes": [
+        "Brise-casque",
+        "Frappe aveuglante",
+        "Coupe claire",
+        "Multi-lame",
+        "Coup de l'assassin",
+        "Gigaslash",
+        "Gigagash",
+        "Defense Illusion"
+      ]
+    },
+    {
+      "SetName": "Lordragon",
+      "aptitudes": [
+        "Superantimagie",
+        "Megasoin",
+        "Souffle de givre",
+        "Inferno",
+        "Aura de peur",
+        "Vague de panique",
+        "Souffle gla-glacial",
+        "Brulure"
+      ]
+    },
+    {
+      "SetName": "Seigneur dragovien",
+      "aptitudes": [
+        "Superfoudre",
+        "Barriere magique",
+        "Souffle gla-glacial",
+        "Megafoudre",
+        "Vague de soulagement",
+        "Brulure",
+        "Explosion magique",
+        "Gigagash"
+      ]
+    },
+    {
+      "SetName": "Leopold",
+      "aptitudes": [
+        "Souffle froid",
+        "Kill",
+        "Plantage critique",
+        "Souffle de givre",
+        "Faille magique",
+        "Mysterreur",
+        "Superkill",
+        "Souffle gla-glacial"
+      ]
+    },
+    {
+      "SetName": "Dhoulmagus",
+      "aptitudes": [
+        "Megalteration",
+        "Cri de guerre",
+        "Haleine fetide",
+        "Reflection",
+        "Perturbonde",
+        "Megatornade",
+        "Megaglace",
+        "Kamikaze",
+        "Megaffaiblo"
+      ]
+    },
+    {
+      "SetName": "Rhapthorne",
+      "aptitudes": [
+        "Aspirmagie",
+        "Supersimplet",
+        "Megatorpeur",
+        "Immoblindage",
+        "Aura de peur",
+        "Souffle de givre",
+        "Megatornade",
+        "Megagalce",
+        "Danse de la mort"
+      ]
+    },
+    {
+      "SetName": "Rhapthorne II",
+      "aptitudes": [
+        "Illusion",
+        "Haleine fraiche",
+        "Aura de peur",
+        "Lame tenebreuse",
+        "Souffle gla-glacial",
+        "Perturbonde",
+        "Gigaelec",
+        "Gigabang",
+        "Deuxieme chance"
+      ]
+    },
+    {
+      "SetName": "Estark",
+      "aptitudes": [
+        "Double-lame",
+        "Multi-lame",
+        "Aura de peur",
+        "Megaglace",
+        "Megaelec",
+        "Deuxieme chance",
+        "Coup de l'assassin",
+        "Vague de panique",
+        "Perturbonde"
+      ]
+    },
+    {
+      "SetName": "Nimzo",
+      "aptitudes": [
+        "Retrosouffle",
+        "Supertilt",
+        "Aura de peur",
+        "Grande inspiration",
+        "Inferno",
+        "Megaflamme",
+        "Megabang",
+        "Brulure",
+        "Perturbonde"
+      ]
+    },
+    {
+      "SetName": "Mortamor",
+      "aptitudes": [
+        "Attaque eblouissante",
+        "Haleine veneneuse",
+        "Souffle brulant",
+        "Meditation",
+        "Inferno",
+        "Megabang",
+        "Megaelec",
+        "Perturbonde"
+      ]
+    },
+    {
+      "SetName": "Capitaine Crow",
+      "aptitudes": [
+        "Grippe-sous",
+        "Klepto manne",
+        "Frappe aveuglante",
+        "Multi-lame",
+        "Tactifige",
+        "Gigaslash",
+        "Gigagash",
+        "Maitre d'arme"
+      ]
+    },
+    {
+      "SetName": "Dr Rebelote",
+      "aptitudes": [
+        "Cri de guerre",
+        "Immoblindage",
+        "Meditation",
+        "Vague de panique",
+        "Gigaelec",
+        "Defense Decelero",
+        "Defense Hygiaphone",
+        "Megaffaiblo",
+        "Orage d'eclairs"
+      ]
+    },
+    {
+      "SetName": "Ruine",
+      "aptitudes": [
+        "Protection",
+        "Coup d'Hermes",
+        "Ricochet",
+        "Reassort du hasard",
+        "Deuxieme chance",
+        "Isolation",
+        "Rock'n'Roll",
+        "Lest",
+        "Gigasalsh"
+      ]
+    },
+    {
+      "SetName": "Hydragon",
+      "aptitudes": [
+        "Souffle de feu",
+        "Hygiaphone",
+        "Cri de guerre",
+        "Tempete de sable",
+        "Cracheflamme",
+        "Abracadaplouf",
+        "Deuxieme chance",
+        "Orage d'eclairs",
+        "Brulure"
+      ]
+    },
+    {
+      "SetName": "Dragon du Zenith",
+      "aptitudes": [
+        "Inferno",
+        "Souffle de givre",
+        "Meditation",
+        "Brulure",
+        "Megalest",
+        "Souffle gla-glacial",
+        "Cha-cha sournois",
+        "Deuxieme chance"
+      ]
+    },
+    {
+      "SetName": "Zoma",
+      "aptitudes": [
+        "Lame-en-peine",
+        "Megaglace",
+        "Megasoin",
+        "Souffle de givre",
+        "Perturbonde",
+        "Gigaglace",
+        "Souffle gla-glacial",
+        "Megabanga"
+      ]
+    },
+    {
+      "SetName": "Exorsus",
+      "aptitudes": [
+        "Tilt",
+        "Supercrame",
+        "Megasoin",
+        "Megacrame",
+        "Superkill",
+        "Gigacrame",
+        "Megalest",
+        "Defense Crame",
+        "Defense Sabotemage"
+      ]
+    },
+    {
+      "SetName": "Duellis",
+      "aptitudes": [
+        "Danse d'esquive",
+        "Trou d'air",
+        "Ricochet",
+        "Resurrection",
+        "Rock'n'Roll",
+        "Ouragan",
+        "Embrouillard",
+        "Defense Glace",
+        "Regeneration magique"
+      ]
+    },
+    {
+      "SetName": "Dorsalam",
+      "aptitudes": [
+        "Protection",
+        "Terminature",
+        "Defense Aspirmagie",
+        "Zombiphobie",
+        "Superconfusion",
+        "Abracadaplouf",
+        "Raz-de-maree",
+        "Multipoing",
+        "Defense Lest"
+      ]
+    },
+    {
+      "SetName": "Epinea",
+      "aptitudes": [
+        "Superantimagie",
+        "Megasoin",
+        "Antidanse",
+        "Reassort au hasard",
+        "Aura de peur",
+        "Raptitude",
+        "Danse de la mort",
+        "Vague de panique"
+      ]
+    },
+    {
+      "SetName": "Mortella",
+      "aptitudes": [
+        "Demonlition",
+        "Plantage critique",
+        "Superaccelero",
+        "Trou d'air",
+        "Faille magique",
+        "Ouragan",
+        "Superkill",
+        "Defense Sabotemage"
+      ]
+    },
+    {
+      "SetName": "Canzer",
+      "aptitudes": [
+        "Illusion",
+        "Gluanticide",
+        "Superdecelero",
+        "Isolation",
+        "Abracadaplouf",
+        "Pique empoisonnee",
+        "Multisoin",
+        "Deuxieme chance",
+        "Porte de nacre"
+      ]
+    },
+    {
+      "SetName": "Adverso",
+      "aptitudes": [
+        "Geyser",
+        "Soins reguliers",
+        "Antimatiere",
+        "Sabetage",
+        "Frappe aveuglante",
+        "Coup miraculeux",
+        "Deuxieme chance",
+        "Raz-de-maree",
+        "Porte de nacre"
+      ]
+    },
+    {
+      "SetName": "Grand oiseau celeste",
+      "aptitudes": [
+        "Deuxieme chance",
+        "Superisolation",
+        "Multisoin",
+        "Desordre",
+        "Deconfuz",
+        "Omnisoin",
+        "Defense Lest",
+        "Flammoglace",
+        "Gambit PM"
+      ]
+    },
+    {
+      "SetName": "Typhonia",
+      "aptitudes": [
+        "Vent coupant",
+        "Aspirmagie",
+        "Megatornade",
+        "Defense Paralysie",
+        "Un-contre-un",
+        "Deuxieme chance",
+        "Supersimplet",
+        "Trou d'air",
+        "Gigatornade"
+      ]
+    },
+    {
+      "SetName": "Vercule",
+      "aptitudes": [
+        "Haleine empoisonnee",
+        "Sabetage",
+        "Souffle brulant",
+        "Antimatiere",
+        "Haleine veneneuse",
+        "Volee veneneuse",
+        "Haleine fetide",
+        "Megalest",
+        "Deuxieme chance"
+      ]
+    },
+    {
+      "SetName": "Aileopard",
+      "aptitudes": [
+        "Torpeur",
+        "Barbecue",
+        "Tempete de sable",
+        "Tour d'air",
+        "Decuplo",
+        "Riposte",
+        "Megaffaiblo",
+        "Cremation",
+        "Deuxieme chance"
+      ]
+    },
+    {
+      "SetName": "Nhe",
+      "aptitudes": [
+        "Cri de guerre",
+        "Ricochet",
+        "Terminature",
+        "Sabetage",
+        "Lest",
+        "Rock'n'Roll",
+        "Gigaslash",
+        "Deuxieme chance",
+        "Gambit PV"
+      ]
+    },
+    {
+      "SetName": "Empyrea",
+      "aptitudes": [
+        "Defense Sabotemage",
+        "Tilt",
+        "Megasoin",
+        "Tactifige",
+        "Isolation",
+        "Multisoin",
+        "Deuxieme chance",
+        "Ouragan",
+        "Embuscade"
+      ]
+    },
+    {
+      "SetName": "Khalamar",
+      "aptitudes": [
+        "Giclette",
+        "Gluanticide",
+        "Sabetage",
+        "Geyser",
+        "Tactifige",
+        "Reassort au hasard",
+        "Raz-de-maree",
+        "Deuxieme chance",
+        "Embrouillard"
+      ]
+    },
+    {
+      "SetName": "Sagitaure",
+      "aptitudes": [
+        "Danse d'esquive",
+        "Terminature",
+        "Aha",
+        "Coup de l'assommoir",
+        "Trou d'air",
+        "Coup de l'assassin",
+        "Raptitude",
+        "Deuxieme chance",
+        "Ouragan"
+      ]
+    },
+    {
+      "SetName": "Lionyx",
+      "aptitudes": [
+        "Cri de guerre",
+        "Megalteration",
+        "Mysterreur",
+        "Meditation",
+        "Regeneration magique",
+        "Gigaglace",
+        "Deuxieme chance",
+        "Gigaflamme",
+        "Flammoglace"
+      ]
+    },
+    {
+      "SetName": "Rigor Mortex",
+      "aptitudes": [
+        "Aha",
+        "Desordre",
+        "Lest",
+        "Megatorpeur",
+        "Deuxieme chance",
+        "Immoblindage",
+        "Entracte",
+        "Defense Lame-en-peine",
+        "Megabanga"
+      ]
+    },
+    {
+      "SetName": "Bonus Attaque",
+      "aptitudes": [
+        "Attaque +3",
+        "Maximum PV +5",
+        "Attaque +3",
+        "Maximum PV +10",
+        "Attaque +5",
+        "Maximum PV +10",
+        "Attaque +5"
+      ]
+    },
+    {
+      "SetName": "Bonus Defense",
+      "aptitudes": [
+        "Defense +5",
+        "Maximum PV +10",
+        "Defense +5",
+        "Maximum PV +10",
+        "Defense +10",
+        "Maximum PV +10",
+        "Defense +10"
+      ]
+    },
+    {
+      "SetName": "Bonus Agilite",
+      "aptitudes": [
+        "Agilite +5",
+        "Maximum PV +10",
+        "Agilite +5",
+        "Maximum PV +10",
+        "Agilite +10",
+        "Maximum PV +10",
+        "Agilite +10"
+      ]
+    },
+    {
+      "SetName": "Bonus Sagesse",
+      "aptitudes": [
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Sagesse +10",
+        "Maximum PM +10",
+        "Sagesse +10"
+      ]
+    },
+    {
+      "SetName": "Bonus Attaque II",
+      "aptitudes": [
+        "Attaque +5",
+        "Maximum PV +10",
+        "Attaque +5",
+        "Maximum PV +10",
+        "Attaque +5",
+        "Maximum PV +10",
+        "Attaque +10",
+        "Maximum PV +10",
+        "Attaque +10"
+      ]
+    },
+    {
+      "SetName": "Bonus Defense II",
+      "aptitudes": [
+        "Defense +10",
+        "Maximum PV +20",
+        "Defense +10",
+        "Maximum PV +20",
+        "Defense +18",
+        "Maximum PV +20",
+        "Defense +18",
+        "Maximum PV +20",
+        "Defense +18"
+      ]
+    },
+    {
+      "SetName": "Bonus Agilite II",
+      "aptitudes": [
+        "Agilite +10",
+        "Maximum PV +20",
+        "Agilite +10",
+        "Maximum PV +20",
+        "Agilite +18",
+        "Maximum PV +20",
+        "Agilite +18",
+        "Maximum PV +20",
+        "Agilite +18"
+      ]
+    },
+    {
+      "SetName": "Bonus Sagesse II",
+      "aptitudes": [
+        "Sagesse +10",
+        "Maximum PM +20",
+        "Sagesse +10",
+        "Maximum PM +20",
+        "Sagesse +18",
+        "Maximum PM +20",
+        "Sagesse +18",
+        "Maximum PM +20",
+        "Sagesse +18"
+      ]
+    },
+    {
+      "SetName": "Bonus Attaque III",
+      "aptitudes": [
+        "Attaque +10",
+        "Maximum PV +10",
+        "Attaque +10",
+        "Maximum PV +10",
+        "Attaque +10",
+        "Maximum PV +20",
+        "Attaque +18",
+        "Maximum PV +20",
+        "Attaque +18",
+        "Defense Affaiblo"
+      ]
+    },
+    {
+      "SetName": "Bonus Defense III",
+      "aptitudes": [
+        "Defense +18",
+        "Maximum PV +20",
+        "Defense +18",
+        "Maximum PV +20",
+        "Defense +18",
+        "Maximum PV +20",
+        "Defense +18",
+        "Maximum PV +20",
+        "Defense +18",
+        "Defense Alteration"
+      ]
+    },
+    {
+      "SetName": "Bonus Agilite III",
+      "aptitudes": [
+        "Agilite +18",
+        "Maximum PV +20",
+        "Agilite +18",
+        "Maximum PV +20",
+        "Agilite +18",
+        "Maximum PV +20",
+        "Agilite +18",
+        "Maximum PV +20",
+        "Agilite +18",
+        "Defense Decelero"
+      ]
+    },
+    {
+      "SetName": "Bonus Sagesse III",
+      "aptitudes": [
+        "Sagesse +18",
+        "Maximum PM +20",
+        "Sagesse +18",
+        "Maximum PM +20",
+        "Sagesse +18",
+        "Maximum PM +20",
+        "Sagesse +18",
+        "Maximum PM +20",
+        "Sagesse +18",
+        "Defense Simplet"
+      ]
+    },
+    {
+      "SetName": "Protection Flamme",
+      "aptitudes": [
+        "Sagesse +5",
+        "Maximum PV +10",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Defense Flamme",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PV +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Bang",
+      "aptitudes": [
+        "Sagesse +5",
+        "Attaque +10",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Defense Bang",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Tornade",
+      "aptitudes": [
+        "Sagesse +5",
+        "Agilite +5",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Defense Tornade",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Glace",
+      "aptitudes": [
+        "Sagesse +5",
+        "Defense +5",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Defense Glace",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Foudre",
+      "aptitudes": [
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Defense Foudre",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Elec",
+      "aptitudes": [
+        "Sagesse +10",
+        "Maximum PM +10",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Defense Elec",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Crame",
+      "aptitudes": [
+        "Sagesse +10",
+        "Maximum PV +10",
+        "Agilite +5",
+        "Maximum PM +10",
+        "Defense Crame",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PV +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Lest",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Defense +10",
+        "Maximum PM +10",
+        "Defense +5",
+        "Defense Lest",
+        "Sagesse +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Raptitude",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Attaque +5",
+        "Maximum PM +10",
+        "Defense +5",
+        "Defense Raptitude",
+        "Maximum PV +10",
+        "Regeneration magique"
+      ]
+    },
+    {
+      "SetName": "Protection Lame-en-peine",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Agilite +5",
+        "Maximum PM +10",
+        "Attaque +5",
+        "Defense Lame-en-peine",
+        "Agilite +5",
+        "Embuscade"
+      ]
+    },
+    {
+      "SetName": "Protection Souffle de feu",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Attaque +5",
+        "Maximum PV +10",
+        "Attaque +5",
+        "Defense Souffle de feu",
+        "Attaque +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Souffle glacial",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Defense +5",
+        "Maximum PV +10",
+        "Defense +5",
+        "Defense Souffle glacial",
+        "Defense +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Kill",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Maximum PM +10",
+        "Maximum PV +10",
+        "Maximum PM +10",
+        "Defense Kill",
+        "Maximum PV +10",
+        "Recuperation reguliere"
+      ]
+    },
+    {
+      "SetName": "Protection Illusion",
+      "aptitudes": [
+        "Maximum PM +10",
+        "Sagesse +5",
+        "Defense +5",
+        "Maximum PV +10",
+        "Defense Illusion",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Poison",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Maximum PM +10",
+        "Maximum PV +10",
+        "Maximum PM +10",
+        "Defense Poison",
+        "Maximum PM +10",
+        "Recuperation reguliere"
+      ]
+    },
+    {
+      "SetName": "Protection Aspirmagie",
+      "aptitudes": [
+        "Maximum PM +10",
+        "Agilite +5",
+        "Maximum PM +10",
+        "Agilite +10",
+        "Defense Aspirmagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Antimagie",
+      "aptitudes": [
+        "Maximum PM +10",
+        "Sagesse +5",
+        "Maximum PM +10",
+        "Sagesse +10",
+        "Defense Antimagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Hygiaphone",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Agilite +5",
+        "Maximum PV +10",
+        "Agilite +10",
+        "Defense Hygiaphone",
+        "Maximum PV +10",
+        "Regeneration magique"
+      ]
+    },
+    {
+      "SetName": "Protection Antidanse",
+      "aptitudes": [
+        "Agilite +5",
+        "Agilite +5",
+        "Agilite +5",
+        "Agilite +5",
+        "Defense Antidanse",
+        "Agilite +10",
+        "Embuscade"
+      ]
+    },
+    {
+      "SetName": "Protection Confusion",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Defense +5",
+        "Maximum PV +10",
+        "Defense +10",
+        "Defense Confusion",
+        "Maximum PV +10",
+        "Embuscade"
+      ]
+    },
+    {
+      "SetName": "Protection Inaction",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Defense +5",
+        "Agilite +5",
+        "Maximum PM +10",
+        "Defense Inaction",
+        "Defense +10",
+        "Embuscade"
+      ]
+    },
+    {
+      "SetName": "Protection Paralysie",
+      "aptitudes": [
+        "Maximum PM +10",
+        "Defense +5",
+        "Agilite +5",
+        "Maximum PV +10",
+        "Defense Paralysie",
+        "Defense +10",
+        "Recuperation reguliere"
+      ]
+    },
+    {
+      "SetName": "Protection Sommeil",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Agilite +5",
+        "Maximum PV +10",
+        "Agilite +10",
+        "Defense Sommeil",
+        "Maximum PV +10",
+        "Embuscade"
+      ]
+    },
+    {
+      "SetName": "Protection Affaiblo",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Attaque +5",
+        "Maximum PM +10",
+        "Defense +5",
+        "Defense Affaiblo",
+        "Maximum PV +10",
+        "Economagie",
+        "Attaque +5",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Alteration",
+      "aptitudes": [
+        "Defense +5",
+        "Agilite +5",
+        "Maximum PV +10",
+        "Maximum PM +10",
+        "Defense Alteration",
+        "Defense +5",
+        "Economagie",
+        "Maximum PM +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Decelero",
+      "aptitudes": [
+        "Maximum PM +10",
+        "Agilite +5",
+        "Sagesse +5",
+        "Maximum PV +10",
+        "Defense Decelero",
+        "Maximum PM +10",
+        "Economagie",
+        "Agilite +5",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Simplet",
+      "aptitudes": [
+        "Sagesse +5",
+        "Sagesse +5",
+        "Maximum PV +10",
+        "Maximum PM +10",
+        "Defense Simplet",
+        "Defense +5",
+        "Economagie",
+        "Sagesse +10",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Protection Sabotemage",
+      "aptitudes": [
+        "Maximum PV +10",
+        "Attaque +5",
+        "Maximum PM +10",
+        "Defense +5",
+        "Defense Sabotemage",
+        "Sagesse +5",
+        "Avaromagie"
+      ]
+    },
+    {
+      "SetName": "Top Dynamiteur",
+      "aptitudes": [
+        "Megaflamme",
+        "Megaelec",
+        "Megabang",
+        "Lame infernale",
+        "Lame explosive",
+        "Lame tenebreuse",
+        "Gigaflamme",
+        "Gigaelec",
+        "Gigabang"
+      ]
+    },
+    {
+      "SetName": "Top Blizzard",
+      "aptitudes": [
+        "Megatornade",
+        "Megafoudre",
+        "Megaglace",
+        "Lame d'Eole",
+        "Lame sacree",
+        "Lame de blizzard",
+        "Gigatornade",
+        "Gigafoudre",
+        "Gigaglace"
+      ]
+    },
+    {
+      "SetName": "Top Mage",
+      "aptitudes": [
+        "Gigaflamme",
+        "Gigafoudre",
+        "Gigaelec",
+        "Gigatornade",
+        "Gigaglace",
+        "Gigabang",
+        "Gigacrame"
+      ]
+    },
+    {
+      "SetName": "Top Souffle",
+      "aptitudes": [
+        "Haleine fraiche",
+        "Retrosouffle",
+        "Haleine veneneuse",
+        "Haleine fetide",
+        "Grande inspiration",
+        "Souffle brulant",
+        "Brulure",
+        "Souffle gla-glacial",
+        "Defense Hygiaphone"
+      ]
+    },
+    {
+      "SetName": "Top Chevalier",
+      "aptitudes": [
+        "Lame infernale",
+        "Lame explosive",
+        "Lame d'Eole",
+        "Lame de Zeus",
+        "Lame de blizzard",
+        "Lame sacree",
+        "Lame tenebreuse",
+        "Gigaslash",
+        "Gigagash"
+      ]
+    },
+    {
+      "SetName": "Top Soigneur",
+      "aptitudes": [
+        "Megasoin",
+        "Danse d'esquive",
+        "Don de magie",
+        "Barriere magique",
+        "Multisoin",
+        "Resurrection",
+        "Brume de bataille",
+        "Prerappel",
+        "Omnisoin"
+      ]
+    },
+    {
+      "SetName": "Top Soutien",
+      "aptitudes": [
+        "Superaccelero",
+        "Megaprotection",
+        "Superdecelero",
+        "Megalteration",
+        "Supertilt",
+        "Superdecuplo",
+        "Supersimplet",
+        "Megaffaiblo"
+      ]
+    },
+    {
+      "SetName": "Top Charmeur",
+      "aptitudes": [
+        "Antimagie",
+        "Torpeur",
+        "Aspirmagie",
+        "Superantimagie",
+        "Illusion",
+        "Megatorpeur",
+        "Confusion",
+        "Faille magique",
+        "Superconfusion"
+      ]
+    },
+    {
+      "SetName": "Top-protection Explosion",
+      "aptitudes": [
+        "Maximum PV +20",
+        "Maximum PM +20",
+        "Maximum PV +30",
+        "Maximum PM +30",
+        "Defense Tornade",
+        "Defense Bang"
+      ]
+    },
+    {
+      "SetName": "Top-protection Elec",
+      "aptitudes": [
+        "Maximum PV +20",
+        "Maximum PM +20",
+        "Maximum PV +30",
+        "Maximum PM +30",
+        "Defense Foudre",
+        "Defense Elec"
+      ]
+    },
+    {
+      "SetName": "Top-protection Foudrologue",
+      "aptitudes": [
+        "Megafoudre",
+        "Megacrame",
+        "Eclair",
+        "Lame de Zeus",
+        "Lame sacree",
+        "Gigafoudre",
+        "Gigacrame",
+        "Orage d'eclairs",
+        "Megabanga"
+      ]
+    },
+    {
+      "SetName": "Top-bonus Vie",
+      "aptitudes": [
+        "Maximum PV +5",
+        "Maximum PV +10",
+        "Maximum PV +15",
+        "Maximum PV +20",
+        "Maximum PV +22",
+        "Maximum PV +24",
+        "Maximum PV +26",
+        "Maximum PV +28",
+        "Maximum PV +30",
+        "Maximum PV +35"
+      ]
+    },
+    {
+      "SetName": "Top-bonus Magie",
+      "aptitudes": [
+        "Maximum PM +5",
+        "Maximum PM +10",
+        "Maximum PM +15",
+        "Maximum PM +20",
+        "Maximum PM +22",
+        "Maximum PM +24",
+        "Maximum PM +26",
+        "Maximum PM +28",
+        "Maximum PM +30",
+        "Maximum PM +35"
+      ]
+    },
+    {
+      "SetName": "Top-bonus Attaque",
+      "aptitudes": [
+        "Attaque +3",
+        "Attaque +5",
+        "Attaque +10",
+        "Attaque +12",
+        "Attaque +15",
+        "Attaque +18",
+        "Attaque +21",
+        "Attaque +24",
+        "Attaque +27",
+        "Attaque +30"
+      ]
+    },
+    {
+      "SetName": "Top-bonus Defense",
+      "aptitudes": [
+        "Defense +3",
+        "Defense +5",
+        "Defense +10",
+        "Defense +12",
+        "Defense +15",
+        "Defense +18",
+        "Defense +21",
+        "Defense +24",
+        "Defense +27",
+        "Defense +30"
+      ]
+    },
+    {
+      "SetName": "Top-bonus Agilite",
+      "aptitudes": [
+        "Agilite +3",
+        "Agilite +5",
+        "Agilite +10",
+        "Agilite +12",
+        "Agilite +15",
+        "Agilite +18",
+        "Agilite +21",
+        "Agilite +24",
+        "Agilite +27",
+        "Agilite +30"
+      ]
+    },
+    {
+      "SetName": "Top-bonus Sagesse",
+      "aptitudes": [
+        "Sagesse +3",
+        "Sagesse +5",
+        "Sagesse +10",
+        "Sagesse +12",
+        "Sagesse +15",
+        "Sagesse +18",
+        "Sagesse +21",
+        "Sagesse +24",
+        "Sagesse +27",
+        "Sagesse +30"
+      ]
+    },
+    {
+      "SetName": "Top-pretection Feu",
+      "aptitudes": [
+        "Maximum PV +20",
+        "Maximum PM +20",
+        "Maximum PV +30",
+        "Maximum PM +30",
+        "Defense Flamme",
+        "Defense Souffle de feu"
+      ]
+    },
+    {
+      "SetName": "Top-pretection Gel",
+      "aptitudes": [
+        "Maximum PV +20",
+        "Maximum PM +20",
+        "Maximum PV +30",
+        "Maximum PM +30",
+        "Defense Glace",
+        "Defense Souffle glacial"
+      ]
+    },
+    {
+      "SetName": "Guerrier",
+      "aptitudes": [
+        "Brise-casque",
+        "Maximum PV +10",
+        "Lame de metal",
+        "Attaque +10",
+        "Lame du dragon",
+        "Maximum PV +10",
+        "Attaque +10",
+        "Coupe claire",
+        "Maitre d'arme"
+      ]
+    },
+    {
+      "SetName": "Mage",
+      "aptitudes": [
+        "Supertornade",
+        "Maximum PM +10",
+        "Superflamme",
+        "Sagesse +10",
+        "Superglace",
+        "Maximum PM +20",
+        "Superbang",
+        "Sagesse +10",
+        "Superantimagie",
+        "Flammoglace"
+      ]
+    },
+    {
+      "SetName": "Pretre",
+      "aptitudes": [
+        "Premiers secours",
+        "Maximum PM +10",
+        "Antipoison",
+        "Sagesse +5",
+        "Soins partiels",
+        "Maximum PM +10",
+        "Rappel",
+        "Sagesse +18",
+        "Kill",
+        "Porte de nacre"
+      ]
+    },
+    {
+      "SetName": "Artiste martial",
+      "aptitudes": [
+        "Creve-coeur",
+        "Maximum PV +10",
+        "Ecrasement",
+        "Attaque +10",
+        "Defense ultime",
+        "Agilite +18",
+        "Coup double",
+        "Attaque +10",
+        "Multipoing",
+        "Embuscade"
+      ]
+    },
+    {
+      "SetName": "Sage",
+      "aptitudes": [
+        "Prerappel",
+        "Maximum PM +10",
+        "Attaque eblouissante",
+        "Sagesse +10",
+        "Multisoin",
+        "Maximum PM +20",
+        "Resurrection",
+        "Sagesse +18",
+        "Vague de soulagement",
+        "Megabanga"
+      ]
+    },
+    {
+      "SetName": "Voleur",
+      "aptitudes": [
+        "Accelero",
+        "Agilite +10",
+        "Klepto manne",
+        "Agilite +10",
+        "Superaccelero",
+        "Agilite +10",
+        "Grippe-sous",
+        "Agilite +10",
+        "Danse d'esquive",
+        "Defense Decelero"
+      ]
+    },
+    {
+      "SetName": "Flute du guerrier",
+      "aptitudes": [
+        "Alteration",
+        "Laminage",
+        "Decelero",
+        "Defense Illusion",
+        "Don de magie",
+        "Defense Inaction",
+        "Entracte",
+        "Deuxieme chance",
+        "Megabanga"
+      ]
+    },
+    {
+      "SetName": "Enchatier",
+      "aptitudes": [
+        "Lapidaction",
+        "Gril",
+        "Etincelle",
+        "Giclette",
+        "Danse de confusion",
+        "Defense Antidanse",
+        "Vent coupant",
+        "Maitre d'arme",
+        "Cha-cha sournois"
+      ]
+    },
+    {
+      "SetName": "Morryvari",
+      "aptitudes": [
+        "Alteration",
+        "Attaque +5",
+        "Decuplo",
+        "Attaque +10",
+        "Superdecuplo",
+        "Genie du dressage"
+      ]
+    },
+    {
+      "SetName": "Expert Battle Road",
+      "aptitudes": [
+        "Defense +18",
+        "Riposte",
+        "Defense Confusion",
+        "Gigagash",
+        "Maitre d'armes",
+        "Gluanticide",
+        "Attaque +18",
+        "Lame du dragon",
+        "Defense Poison",
+        "Superisolation"
+      ]
+    },
+    {
+      "SetName": "Heros des cieux",
+      "aptitudes": [
+        "Inferno",
+        "Decuplo",
+        "Lame infernale",
+        "Multisoin",
+        "Cremation",
+        "Vague de soulagement",
+        "Gigafoudre",
+        "Brulure"
+      ]
+    },
+    {
+      "SetName": "Vil vide",
+      "aptitudes": [
+        "Souffle de givre",
+        "Cri de guerre",
+        "Vague de panique",
+        "Meditation",
+        "Orage d'eclairs",
+        "Embrouillard",
+        "Gigaelec",
+        "Souffle gla-glacial"
+      ]
+    }
+  ]
+}

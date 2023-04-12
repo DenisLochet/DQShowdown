@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Bloqueur
+  m_EditorClassIdentifier: 
+  setName: Bloqueur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 3bb063b0ab00b414fa124104de8d89ad, type: 2}
+  - {fileID: 11400000, guid: 6ce770d3a7617284bb9046af4aea3884, type: 2}
+  - {fileID: 11400000, guid: 3229504dba6d75447b16494c08dd8588, type: 2}
+  - {fileID: 11400000, guid: 2b4b4c78d7cecee40b4b1b2cd88a2ebe, type: 2}
+  - {fileID: 11400000, guid: 6903b4989fb2b7b4a81f7b290d6bf439, type: 2}
+  - {fileID: 11400000, guid: 568761af72cc1bc4a934318e5077191e, type: 2}
+  - {fileID: 11400000, guid: aa53eb7ffcb93cf4a98ec4b8045b98a7, type: 2}
+  - {fileID: 11400000, guid: c27bb6a83f687d148b07d1209f56cc6c, type: 2}
+  - {fileID: 11400000, guid: aad353488ea7376489a05135a1114c82, type: 2}

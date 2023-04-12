@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Barricadeur
+  m_EditorClassIdentifier: 
+  setName: Barricadeur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 51c39043ca2233f48af45c97365d07ba, type: 2}
+  - {fileID: 11400000, guid: ce354e0bdffc02f4a882d6cf2a3efbd3, type: 2}
+  - {fileID: 11400000, guid: c3b365f3a0961e24c914a5d38b11d964, type: 2}
+  - {fileID: 11400000, guid: 57a4ab8bc1c9be94f85ba54ab4b0910c, type: 2}
+  - {fileID: 11400000, guid: b11522776924bf24a82d487c421a71da, type: 2}
+  - {fileID: 11400000, guid: 016dfe076e735834398812ceb93f82d7, type: 2}
+  - {fileID: 11400000, guid: ef236ec116c79cd4496896f5fc018f0a, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Canzer
+  m_EditorClassIdentifier: 
+  setName: Canzer
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 6d6bbb02a42254e44832ce72b327c6f9, type: 2}
+  - {fileID: 11400000, guid: 85702e6cb50d7a74b98f32af6680209b, type: 2}
+  - {fileID: 11400000, guid: f4494b8c88e40824394cb3f75c425bd1, type: 2}
+  - {fileID: 11400000, guid: 1f547795c25332143aaed023716db5aa, type: 2}
+  - {fileID: 11400000, guid: 9768fc4d71bf56946a29edfb13525de4, type: 2}
+  - {fileID: 11400000, guid: 93c10dc98cc3b95438e5431caf8befa2, type: 2}
+  - {fileID: 11400000, guid: f8c178288537eeb4791594f0f8c70e74, type: 2}

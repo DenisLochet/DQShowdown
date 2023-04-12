@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Nimzo
+  m_EditorClassIdentifier: 
+  setName: Nimzo
+  aptitudeDatas:
+  - {fileID: 11400000, guid: ce354e0bdffc02f4a882d6cf2a3efbd3, type: 2}
+  - {fileID: 11400000, guid: 5a49034003de8af44bbdedfca1a0f819, type: 2}
+  - {fileID: 11400000, guid: 321c14afcca085b46b6b0a812f9c570b, type: 2}
+  - {fileID: 11400000, guid: c50ce63ee10d1a24fb995d06475cd454, type: 2}
+  - {fileID: 11400000, guid: ce54df4efda03f1449cba9367e86b98b, type: 2}
+  - {fileID: 11400000, guid: 90e4fc0aab449b54e8a73f7c21f9fd36, type: 2}
+  - {fileID: 11400000, guid: b63bb502293d0d64fb2f39c624d1be16, type: 2}
+  - {fileID: 11400000, guid: e881596907990b64fbcab9e312748ad2, type: 2}
+  - {fileID: 11400000, guid: 03254e17a9d6394418b41623a5403e9a, type: 2}

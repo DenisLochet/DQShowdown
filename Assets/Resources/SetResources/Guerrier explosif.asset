@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Guerrier explosif
+  m_EditorClassIdentifier: 
+  setName: Guerrier explosif
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 7ebf2a10f0195db4db5b8073098b990a, type: 2}
+  - {fileID: 11400000, guid: 5d8f9192339a9144296d6700fc5eee3a, type: 2}
+  - {fileID: 11400000, guid: ad772a5d01d5ab444822a4e1fb3dee7c, type: 2}
+  - {fileID: 11400000, guid: 606f710b4f01ef948906dd5b40b2b8f1, type: 2}
+  - {fileID: 11400000, guid: d9e42a37c3a5a3642a8559debdfd259e, type: 2}
+  - {fileID: 11400000, guid: 349f7a99769b33f41b541801341a18de, type: 2}
+  - {fileID: 11400000, guid: b24a0bafc79f7d041b1b7f8d62ec41ca, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Guerisseur
+  m_EditorClassIdentifier: 
+  setName: Guerisseur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: a817166fcd182084da66f2b2090bd585, type: 2}
+  - {fileID: 11400000, guid: a19a22998e4fc5d418201ee6b64955e3, type: 2}
+  - {fileID: 11400000, guid: 51c39043ca2233f48af45c97365d07ba, type: 2}
+  - {fileID: 11400000, guid: 93c10dc98cc3b95438e5431caf8befa2, type: 2}
+  - {fileID: 11400000, guid: 355dd39626230814a87ab0fc6995ec2f, type: 2}
+  - {fileID: 11400000, guid: bac7ad39f387023439e6b088ffd7cb8c, type: 2}
+  - {fileID: 11400000, guid: 757cb8408f43ba74d8d08ae1833dff98, type: 2}
+  - {fileID: 11400000, guid: 18407900d2af29b49858a345624472ff, type: 2}

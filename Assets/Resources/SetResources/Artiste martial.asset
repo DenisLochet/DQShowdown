@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Artiste martial
+  m_EditorClassIdentifier: 
+  setName: Artiste martial
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 3856fae84bad41a43bfe0a17d72fa292, type: 2}
+  - {fileID: 11400000, guid: bd2de757faaa6e542a08adaef63466f9, type: 2}
+  - {fileID: 11400000, guid: 1a14eaa2f16d05b4682f0c55e377523e, type: 2}
+  - {fileID: 11400000, guid: c3b365f3a0961e24c914a5d38b11d964, type: 2}
+  - {fileID: 11400000, guid: 4be47a1df185e464b993607c475a592f, type: 2}
+  - {fileID: 11400000, guid: a2509921cde1c0f498e5ff37962ed7d5, type: 2}
+  - {fileID: 11400000, guid: 1a14eaa2f16d05b4682f0c55e377523e, type: 2}
+  - {fileID: 11400000, guid: fcddd29773ce1084ea10dcffa1c02727, type: 2}

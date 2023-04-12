@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Botaniste
+  m_EditorClassIdentifier: 
+  setName: Botaniste
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 606f710b4f01ef948906dd5b40b2b8f1, type: 2}
+  - {fileID: 11400000, guid: a19a22998e4fc5d418201ee6b64955e3, type: 2}
+  - {fileID: 11400000, guid: 6beb3334f50e22f4685fe0f7f1148529, type: 2}
+  - {fileID: 11400000, guid: 32980530ad5d02e41a2bf1a0b40eb139, type: 2}
+  - {fileID: 11400000, guid: 7ed9a3189142215429b6c9b172ce974d, type: 2}
+  - {fileID: 11400000, guid: 883f9812e5bed9c4e80aea7beed72599, type: 2}
+  - {fileID: 11400000, guid: 1f74f8b67ed46a947b49cc4d35184a6a, type: 2}
+  - {fileID: 11400000, guid: 39e9ca1f649ea674ba2ae61e3ea42179, type: 2}

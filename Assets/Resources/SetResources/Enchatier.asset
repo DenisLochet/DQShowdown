@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Enchatier
+  m_EditorClassIdentifier: 
+  setName: Enchatier
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 13f5fb4f7c6f5e8419b9b628a4852a5d, type: 2}
+  - {fileID: 11400000, guid: 962b0e30655c19c4e993b83c164631e1, type: 2}
+  - {fileID: 11400000, guid: 73ac05d6bdbe90b40a83159fc294416f, type: 2}
+  - {fileID: 11400000, guid: a63f3842d4ed79348b05a39dae9728dc, type: 2}
+  - {fileID: 11400000, guid: 9b6f917c663ae69459574282cc7e4337, type: 2}

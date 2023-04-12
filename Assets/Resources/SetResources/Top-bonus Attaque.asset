@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Top-bonus Attaque
+  m_EditorClassIdentifier: 
+  setName: Top-bonus Attaque
+  aptitudeDatas:
+  - {fileID: 11400000, guid: f9ed77d3826aba946b3c536bc6e1e4f9, type: 2}
+  - {fileID: 11400000, guid: 7707c7145e0dca14e83331c5814aa243, type: 2}
+  - {fileID: 11400000, guid: 1a14eaa2f16d05b4682f0c55e377523e, type: 2}
+  - {fileID: 11400000, guid: 28871e3f77f681d4ebe88e6f167afc44, type: 2}

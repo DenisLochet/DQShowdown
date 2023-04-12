@@ -1,0 +1,1814 @@
+{
+    "aptitudes": [
+    {
+      "spellName": "Flamme",
+      "Type": "Magique",
+      "Element": "Feu",
+      "Size": "Normal",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Roussit un ennemi avec une petite boule de feu"
+    },
+    {
+      "spellName": "Superflamme",
+      "Type": "Magique",
+      "Element": "Feu",
+      "Size": "Super",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Brules un ennemi avec une grosse boule de feu"
+    },
+    {
+      "spellName": "Megaflamme",
+      "Type": "Magique",
+      "Element": "Feu",
+      "Size": "Mega",
+      "Multicible": "0",
+      "Cout": "10",
+      "Description": "Incinere un ennemi avec une tres grosse boule de feu"
+    },
+    {
+      "spellName": "Gigaflamme",
+      "Type": "Magique",
+      "Element": "Feu",
+      "Size": "Giga",
+      "Multicible": "0",
+      "Cout": "30",
+      "Description": "Reduit un ennemi en cendres avec une gigantesque boule de feu"
+    },
+    {
+      "spellName": "Bang",
+      "Type": "Magique",
+      "Element": "Bang",
+      "Size": "Normal",
+      "Multicible": "1",
+      "Cout": "5",
+      "Description": "Blesse tous les ennemis en produisant une petite explosion"
+    },
+    {
+      "spellName": "Superbang",
+      "Type": "Magique",
+      "Element": "Bang",
+      "Size": "Super",
+      "Multicible": "1",
+      "Cout": "8",
+      "Description": "Enveloppe tous les ennemis dans une grande explosion"
+    },
+    {
+      "spellName": "Megabang",
+      "Type": "Magique",
+      "Element": "Bang",
+      "Size": "Mega",
+      "Multicible": "1",
+      "Cout": "15",
+      "Description": "Souffle tous les ennemis dans une enorme explosion"
+    },
+    {
+      "spellName": "Gigabang",
+      "Type": "Magique",
+      "Element": "Bang",
+      "Size": "Giga",
+      "Multicible": "1",
+      "Cout": "45",
+      "Description": "Souffle tous les ennemis dans une explosion incroyablement violente"
+    },
+    {
+      "spellName": "Tornade",
+      "Type": "Magique",
+      "Element": "Vent",
+      "Size": "Normal",
+      "Multicible": "1",
+      "Cout": "3",
+      "Description": "Fouette tous les ennemis avec une petite tornade"
+    },
+    {
+      "spellName": "Supertornade",
+      "Type": "Magique",
+      "Element": "Vent",
+      "Size": "Super",
+      "Multicible": "1",
+      "Cout": "5",
+      "Description": "Ecorche tous les ennemis avec une grande tornade"
+    },
+    {
+      "spellName": "Megatornade",
+      "Type": "Magique",
+      "Element": "Vent",
+      "Size": "Mega",
+      "Multicible": "1",
+      "Cout": "12",
+      "Description": "Ecorche tous les ennemis avec une puissante tornade"
+    },
+    {
+      "spellName": "Gigatornade",
+      "Type": "Magique",
+      "Element": "Vent",
+      "Size": "Giga",
+      "Multicible": "1",
+      "Cout": "36",
+      "Description": "Ecorche tous les ennemis avec une tornade dechainee"
+    },
+    {
+      "spellName": "Foudre",
+      "Type": "Magique",
+      "Element": "Lumiere",
+      "Size": "Normal",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Frappe un ennemi d'uin eclair beni"
+    },
+    {
+      "spellName": "Superfoudre",
+      "Type": "Magique",
+      "Element": "Lumiere",
+      "Size": "Super",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Frappe un ennemi d'uin eclair saint"
+    },
+    {
+      "spellName": "Megafoudre",
+      "Type": "Magique",
+      "Element": "Lumiere",
+      "Size": "Mega",
+      "Multicible": "0",
+      "Cout": "10",
+      "Description": "Frappe un ennemi d'un eclair sacre"
+    },
+    {
+      "spellName": "Gigafoudre",
+      "Type": "Magique",
+      "Element": "Lumiere",
+      "Size": "Giga",
+      "Multicible": "0",
+      "Cout": "30",
+      "Description": "Frappe un ennemi d'un eclair divin"
+    },
+    {
+      "spellName": "Elec",
+      "Type": "Magique",
+      "Element": "Tenebre",
+      "Size": "Normal",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Frappe un ennemi d'un eclair des tenebres"
+    },
+    {
+      "spellName": "Superelec",
+      "Type": "Magique",
+      "Element": "Tenebre",
+      "Size": "Super",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Frappe un ennemi d'un eclair infernal"
+    },
+    {
+      "spellName": "Megaelec",
+      "Type": "Magique",
+      "Element": "Tenebre",
+      "Size": "Mega",
+      "Multicible": "0",
+      "Cout": "10",
+      "Description": "Frappe un ennemi d'un eclair abyssal"
+    },
+    {
+      "spellName": "Gigaelec",
+      "Type": "Magique",
+      "Element": "Tenebre",
+      "Size": "Giga",
+      "Multicible": "0",
+      "Cout": "30",
+      "Description": "Frappe un ennemi d'un eclair stygien"
+    },
+    {
+      "spellName": "Crame",
+      "Type": "Magique",
+      "Element": "Crame",
+      "Size": "Normal",
+      "Multicible": "1",
+      "Cout": "3",
+      "Description": "Roussit tous les ennemis avec un feu brulant"
+    },
+    {
+      "spellName": "Supercrame",
+      "Type": "Magique",
+      "Element": "Crame",
+      "Size": "Super",
+      "Multicible": "1",
+      "Cout": "5",
+      "Description": "Brules tous les ennemis avec un mur de feu brulant"
+    },
+    {
+      "spellName": "Megacrame",
+      "Type": "Magique",
+      "Element": "Crame",
+      "Size": "Mega",
+      "Multicible": "1",
+      "Cout": "12",
+      "Description": "Incinere tous les ennemis avec un mur de flammes ardentes"
+    },
+    {
+      "spellName": "Gigacrame",
+      "Type": "Magique",
+      "Element": "Crame",
+      "Size": "Giga",
+      "Multicible": "1",
+      "Cout": "36",
+      "Description": "Reduit tous les ennemis en cendres avec des flammes infernales"
+    },
+    {
+      "spellName": "Glace",
+      "Type": "Magique",
+      "Element": "Glace",
+      "Size": "Normal",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Transperce un ennemi avec des morceaux de glace effiles"
+    },
+    {
+      "spellName": "Superglace",
+      "Type": "Magique",
+      "Element": "Glace",
+      "Size": "Super",
+      "Multicible": "0",
+      "Cout": "5",
+      "Description": "Bombarde tous les ennemis avec des morceaux de glace effiles"
+    },
+    {
+      "spellName": "Megaglace",
+      "Type": "Magique",
+      "Element": "Glace",
+      "Size": "Mega",
+      "Multicible": "1",
+      "Cout": "12",
+      "Description": "Crible tous les ennemis de stalactites tranchantes comme des lames"
+    },
+    {
+      "spellName": "Gigaglace",
+      "Type": "Magique",
+      "Element": "Glace",
+      "Size": "Giga",
+      "Multicible": "1",
+      "Cout": "36",
+      "Description": "Embroche tous les ennemis avec un mur de stalactites affutees comme des lames"
+    },
+    {
+      "spellName": "Lame de feu",
+      "Type": "Physique",
+      "Element": "Feu",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il lacere avec une lame ardente"
+    },
+    {
+      "spellName": "Lame infernale",
+      "Type": "Physique",
+      "Element": "Feu",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il lacere avec une lame brulante"
+    },
+    {
+      "spellName": "Lame detonante",
+      "Type": "Physique",
+      "Element": "Bang",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il dechire avec une explosion"
+    },
+    {
+      "spellName": "Lame explosive",
+      "Type": "Physique",
+      "Element": "Bang",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il dechire avec une explosion devastatrice"
+    },
+    {
+      "spellName": "Lame de vent",
+      "Type": "Physique",
+      "Element": "Vent",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame de bourrasque"
+    },
+    {
+      "spellName": "Lame d'eole",
+      "Type": "Physique",
+      "Element": "Vent",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame de tornade"
+    },
+    {
+      "spellName": "Lame benie",
+      "Type": "Physique",
+      "Element": "Lumiere",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame baignee d'energie sainte"
+    },
+    {
+      "spellName": "Lame sacree",
+      "Type": "Physique",
+      "Element": "Lumiere",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame veritablement divine"
+    },
+    {
+      "spellName": "Lame sombre",
+      "Type": "Physique",
+      "Element": "Tenebre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame baignee d'energie des tenebres"
+    },
+    {
+      "spellName": "Lame tenebreuse",
+      "Type": "Physique",
+      "Element": "Tenebre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame horriblement sombre"
+    },
+    {
+      "spellName": "Lame d'eclair",
+      "Type": "Physique",
+      "Element": "Crame",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il lacere avec une lame d'eclairs"
+    },
+    {
+      "spellName": "Lame de Zeus",
+      "Type": "Physique",
+      "Element": "Crame",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il lacere avec une lame foudroyante"
+    },
+    {
+      "spellName": "Lame de gel",
+      "Type": "Physique",
+      "Element": "Glace",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame gelee"
+    },
+    {
+      "spellName": "Lame de blizzard",
+      "Type": "Physique",
+      "Element": "Glace",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Se focalise sur le point faible de l'ennemi, qu'il decoupe avec une lame glaciale"
+    },
+    {
+      "spellName": "Souffle de feu",
+      "Type": "Souffle",
+      "Element": "Souffle feu",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "3",
+      "Description": "Souffle un air chaud sur tous les ennemis"
+    },
+    {
+      "spellName": "Cracheflamme",
+      "Type": "Souffle",
+      "Element": "Souffle feu",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "5",
+      "Description": "Souffle un air ardent sur tous les ennemis"
+    },
+    {
+      "spellName": "Inferno",
+      "Type": "Souffle",
+      "Element": "Souffle feu",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "12",
+      "Description": "Souffle un air brulant sur tous les ennemis"
+    },
+    {
+      "spellName": "Brulure",
+      "Type": "Souffle",
+      "Element": "Souffle feu",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "36",
+      "Description": "Souffle un air incandescent sur tous les ennemis"
+    },
+    {
+      "spellName": "Souffle frais",
+      "Type": "Souffle",
+      "Element": "Souffle glace",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "3",
+      "Description": "Souffle un air frais sur tous les ennemis"
+    },
+    {
+      "spellName": "Souffle froid",
+      "Type": "Souffle",
+      "Element": "Souffle glace",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "5",
+      "Description": "Souffle un air froid sur tous les ennemis"
+    },
+    {
+      "spellName": "Souffle de givre",
+      "Type": "Souffle",
+      "Element": "Souffle glace",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "12",
+      "Description": "Souffle un air glace sur tous les ennemis"
+    },
+    {
+      "spellName": "Souffle gla-glacial",
+      "Type": "Souffle",
+      "Element": "Souffle glace",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "36",
+      "Description": "Souffle un air gla-glacial sur tous les ennemis"
+    },
+    {
+      "spellName": "Retrosouffle",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Absorbe les degats des attaques de souffle, puis les renvoie sur l'ennemi"
+    },
+    {
+      "spellName": "Grande inspiration",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "0",
+      "Description": "Augmente la puissance de votre attaque de souffle suivante"
+    },
+    {
+      "spellName": "Lame du dragon",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque infligeant de gros degat aux Dragon"
+    },
+    {
+      "spellName": "Multipoing",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "10",
+      "Description": "Attaque l'ennemi de maniere aleatoire avec quatre frappes legeres"
+    },
+    {
+      "spellName": "Coup miraculeux",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "10",
+      "Description": "Inflige des degats a l'ennemi, puis soigne l'utilisateur a hauteur de la moitie des degats infliges"
+    },
+    {
+      "spellName": "Mysterreur",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque infligeant de gros d'egat aux monstre de la famille ???"
+    },
+    {
+      "spellName": "Brise-casque",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "-",
+      "Description": "Coup tres violent qui diminue la DEF d'un ennemi"
+    },
+    {
+      "spellName": "Gluanticide",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Inflige des degat supplementaire aux Gluant"
+    },
+    {
+      "spellName": "Ecrasement",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "1",
+      "Description": "Inflige de lourds degat a la cible et a l'utilisateur"
+    },
+    {
+      "spellName": "Stimulation",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "2",
+      "Description": "Annule l'effet du sommeil et de la paralysie sur tous les allies"
+    },
+    {
+      "spellName": "Sabetage",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Inflige des degats supplementaire aux Betes"
+    },
+    {
+      "spellName": "Antipoison",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Annule l'effet du poison sur un allie"
+    },
+    {
+      "spellName": "Un-contre-un",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "1",
+      "Description": "Reduit a la fois les PV de la cible et de l'utilisateur a 1"
+    },
+    {
+      "spellName": "Danse d'esquive",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "1",
+      "Description": "Prepare un danseur de votre equipe a effectuer des manoeuvres d'esquive"
+    },
+    {
+      "spellName": "Demonlition",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Inflige des degats supplementaire au Demons"
+    },
+    {
+      "spellName": "Coup d'Hermes",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque tres rapide qui permet a son utilisateur d'attaquer en premier"
+    },
+    {
+      "spellName": "Terminature",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Inflige des degats supplementaire au Naturels"
+    },
+    {
+      "spellName": "Lechouille",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Grand coup de langue qui reduit la DEF de la cible a 1 et qui peut parfois la laisser abasourdie"
+    },
+    {
+      "spellName": "Coupe-souffle",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Attaque pouvant empecher la cible d'utiliser des attaque de souffle tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Meditation",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "16",
+      "Description": "Restaure environ 400PV de celui qui l'utilise"
+    },
+    {
+      "spellName": "Antimatiere",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Inflige des degats suppementaire aux Matieres"
+    },
+    {
+      "spellName": "Attaque eblouisante",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "2",
+      "Description": "Diffuse une lumiere eblouissante qui diminue la precision des ennemis"
+    },
+    {
+      "spellName": "Coup de l'assomoir",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Attaque pouvant plonger sa cible dans la confusion tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Frappe lenifiante",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Attaque pouvant reduire la WIS de sa cible tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Zombiphobie",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Inflige des degats supplementaires aux Zombies"
+    },
+    {
+      "spellName": "Claquettes",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "-",
+      "Description": "Danse capable de voler les PM d'un ennemi"
+    },
+    {
+      "spellName": "Deconfuz",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "2",
+      "Description": "Annule l'effet du sommeil et de la confusion sur tous les allies"
+    },
+    {
+      "spellName": "Baffaiblissante",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Attaque pouvant reduire l'ATK de sa cible tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Premiers secours",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Restaure environ 30PV d'un allie"
+    },
+    {
+      "spellName": "Protection",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Augmente fortement la DEF d'un allie pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Soins partiels",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Restaure environ 75PV d'un allie"
+    },
+    {
+      "spellName": "Rappel",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "8",
+      "Description": "Ressuscite un allie mort en lui octroyant la moitie de son maximum de PV. Peut parfois echouer"
+    },
+    {
+      "spellName": "Soins reguliers",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Restaure quelques PV apres chaque action, pendant une courte duree"
+    },
+    {
+      "spellName": "Megasoin",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "10",
+      "Description": "Restaure environs 350PV d'un allie"
+    },
+    {
+      "spellName": "Resurrection",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "15",
+      "Description": "Ressuscite un allie mort en lui octroyant la moitie de son maximum de PV. N'echoue jamais"
+    },
+    {
+      "spellName": "Stimulation",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "2",
+      "Description": "Annule l'effet du sommeil et de la paralysie sur tous les allies"
+    },
+    {
+      "spellName": "Megaprotection",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Augmente fortement la DEF de tous les allies pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Multisoin",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "9",
+      "Description": "Restaure environs 90PV de tous les allies"
+    },
+    {
+      "spellName": "Vague de soulagement",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "7",
+      "Description": "Supprime la plupart des maux de tous les allies"
+    },
+    {
+      "spellName": "Pluie salvatrice",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "15",
+      "Description": "Douche revitalisante qui soigne tous les allies au tour suivant"
+    },
+    {
+      "spellName": "Chant redemteur",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "15",
+      "Description": "Chanson qui offre 50% des chance de ressusciter tous les allies au tour suivant"
+    },
+    {
+      "spellName": "Omnisoin",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "36",
+      "Description": "Restaure environs 350PV de tous les allies"
+    },
+    {
+      "spellName": "Perturbonde",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "7",
+      "Description": "Supprime presque tous les effets magiques des ennemis"
+    },
+    {
+      "spellName": "Double-lame",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Inflige de gros degats a un ennemi, mais aussi a l'attaquant"
+    },
+    {
+      "spellName": "Coup double",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "1",
+      "Description": "Inflige de tres lourds degats tout en reduisant fortement la DEF du lanceur sur un tour"
+    },
+    {
+      "spellName": "Decuplo",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Augmente fortement l'ATK d'un allie pendant 2 a 5 tours"
+    },
+    {
+      "spellName": "Superdecuplo",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "10",
+      "Description": "Augmente fortement l'ATK d'un allie pendant 2 a 5 tours"
+    },
+    {
+      "spellName": "Defense ultime",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "spellName defensive qui reduit grandement les degats encaisses"
+    },
+    {
+      "spellName": "Altruisme",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "5",
+      "Description": "Protege un allie de toutes les attaques en redirigeant tous les degats sur l'utilisateur"
+    },
+    {
+      "spellName": "Accelero",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Augmente fortement l'AGI d'un allie pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Tempete de sable",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "2",
+      "Description": "Lance du sable dans les yeux de tous les ennemis et reduit leur precision"
+    },
+    {
+      "spellName": "Supperaccelero",
+      "Type": "Soutient",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Augmente l'AGI de tous les allie pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Entracte",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "48",
+      "Description": "Annule toutes les autres actions du tour apres celle de l'utilisateur. Ne peut s'utiliser qu'une seule fois dans un combat"
+    },
+    {
+      "spellName": "Aspirmagie",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "0",
+      "Description": "Vole les PM d'un ennemi"
+    },
+    {
+      "spellName": "Abracadaplouf",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "5",
+      "Description": "Reduit considerablement les PM d'un ennemi"
+    },
+    {
+      "spellName": "Partage de magie",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "8",
+      "Description": "Donne la moitie des PM du lanceur du sort a un allie"
+    },
+    {
+      "spellName": "Antimagie",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "8",
+      "Description": "Empeche un ennemi de faire appel a la magie"
+    },
+    {
+      "spellName": "Reassort au hasard",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "1",
+      "Description": "Rend quelques PM au lanceur"
+    },
+    {
+      "spellName": "Superantimagie",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "0",
+      "Description": "Empeche tous les ennemis de faire appel a la magie"
+    },
+    {
+      "spellName": "Don de magie",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "15",
+      "Description": "Donne tous les PM du lanceur du sort a un allie"
+    },
+    {
+      "spellName": "Tilt",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Augmente fortement la WIS d'un allie pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Supertilt",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Augmente la WIS de tous les allies pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Megaffaiblo",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "10",
+      "Description": "Diminue l'ATK de tous les ennemis pendant 2 a 5 tours"
+    },
+    {
+      "spellName": "Affaiblo",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Diminue l'ATK d'un ennemi pendant 2 a 5 tours"
+    },
+    {
+      "spellName": "Simplet",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Diminue fortement la WIS d'un ennemi pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Supersimplet",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Diminue la WIS de tous les ennemis pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Decelero",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Diminue fortement l'AGI d'un ennemi pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Alteration",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Diminue fortement la DEF d'un ennemi pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Tactifige",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Oblige un ennemi a repeter toujours la meme tactique"
+    },
+    {
+      "spellName": "Superdecelero",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Diminue la DEF de tous les ennemis pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Megalteration",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Diminue la DEF de tous les ennemis pendant 4 a 7 tours"
+    },
+    {
+      "spellName": "Aha",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Revele des informations sur les caracteristique d'un ennemi"
+    },
+    {
+      "spellName": "Faille magique",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Reduit la resistance ennemie aux sorts offensifs"
+    },
+    {
+      "spellName": "Barriere magique",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Forme une barriere qui reduit l'efficacite des sorts offensifs adversaires"
+    },
+    {
+      "spellName": "Reflexion",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Cree une barriere de protection qui renvoie les sorts ennemis et allies"
+    },
+    {
+      "spellName": "Isolation",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Protege fortement un allie des attaques de souffle de glace et de feu"
+    },
+    {
+      "spellName": "Hygiaphone",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Empeche un ennemi d'utiliser des attaques de souffle"
+    },
+    {
+      "spellName": "Coupe-soufflle",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque pouvant empecher la cible d'utiliser des attaques de souffle tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Superisolation",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Protege tous les allies des attaque de souffle de glace et de feu"
+    },
+    {
+      "spellName": "Vent contraire",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "10",
+      "Description": "Fait naetre une tempete qui renvoie l'attaque de souffle suivante"
+    },
+    {
+      "spellName": "Lame de metal",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque endommageant a coup sur les ennemis au corps metallique"
+    },
+    {
+      "spellName": "Coupe claire",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Attaque imprevisible qui inflige des degats critiques si elle fonctionne"
+    },
+    {
+      "spellName": "Brume de bataille",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "10",
+      "Description": "Fait tomber un brouillard qui bloque une seule attaque de presque n'importe quel type"
+    },
+    {
+      "spellName": "Immoblindage",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Forme un mur impenetrable qui annule toutes les attaques ennemies, mais le lanceur est immobilise pendant un court moment"
+    },
+    {
+      "spellName": "Riposte",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "64",
+      "Description": "Prepare a lancer une contre-attaque contre l'ennemi. Permet de contrer presque toutes les attaques"
+    },
+    {
+      "spellName": "Break-dance",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Attaque pouvant empecher la cible d'utiliser des attaques de danse tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Plantage critique",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "5",
+      "Description": "Empeche un ennemi de porter des coups critiques"
+    },
+    {
+      "spellName": "Raptitude",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Empeche un ennemi d'utiliser certaines aptitudes"
+    },
+    {
+      "spellName": "Lame-en-peine",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Empeche un ennemi d'utiliser certaines attaques a la lame"
+    },
+    {
+      "spellName": "Torpeur",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Endort un ennemi"
+    },
+    {
+      "spellName": "Illusion",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Reduit la precision de toutes les attaques ennemies"
+    },
+    {
+      "spellName": "Confusion",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "5",
+      "Description": "Plonge un ennemi dans la confusion"
+    },
+    {
+      "spellName": "Haleine fetide",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Violent rot pouvant provoquer la confusion chez tous les ennemis"
+    },
+    {
+      "spellName": "Megatorpeur",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "8",
+      "Description": "Endort tous les ennemis"
+    },
+    {
+      "spellName": "Superconfusion",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "8",
+      "Description": "Plonge tous les ennemis dans la confusion"
+    },
+    {
+      "spellName": "Pique empoisonee",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque pouvant intoxiquer sa cible tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Haleine empoisonnee",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "3",
+      "Description": "Nuage toxique pouvant empoisonner tous les ennemis"
+    },
+    {
+      "spellName": "Frappe paralysante",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "3",
+      "Description": "Attaque pouvant paralyser sa cible tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Souffle brulant",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Rot virulent pouvant paralyser tous les ennemis"
+    },
+    {
+      "spellName": "Haleine veneneuse",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Nuage mortel pouvant intoxiquer tous les ennemis"
+    },
+    {
+      "spellName": "Volee veneneuse",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Attaque pouvant empoisonner sa cible en lui infligeant des degats"
+    },
+    {
+      "spellName": "Creve-coeur",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque infligeant des degat a la cible, a laquelle elle peut aussi faire perdre un tour"
+    },
+    {
+      "spellName": "Embrouillard",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "55",
+      "Description": "Supprime presque tous les effets magiques de tous les ennemis. Allies et ennemis ne pourront plus utiliser la magie pendant un court moment"
+    },
+    {
+      "spellName": "Encollage",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Attaque pouvant reduire l'AGI de sa cible tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Frappe aveuglante",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Attaque pouvant diminuer la precision de la cible tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Coup de l'assassin",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "8",
+      "Description": "Technique qui tue parfois un ennemi en un seul coup"
+    },
+    {
+      "spellName": "Frappe lethargique",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque pouvant endormir sa cible tout en lui infligeant des degats"
+    },
+    {
+      "spellName": "Grippe-sous",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Attaque permettant de voler des pieces d'or tout en infligeant des degats"
+    },
+    {
+      "spellName": "Klepto manne",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "-",
+      "Description": "Attaque permettant de voler un objet tout en infligeant des degats"
+    },
+    {
+      "spellName": "Prerappel",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "32",
+      "Description": "Permet a l'allie beneficiaire d'etre automatiquement ressuscite s'il tombe au combat"
+    },
+    {
+      "spellName": "Lest",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "12",
+      "Description": "Reduit les PV d'un ennemi d'1/4"
+    },
+    {
+      "spellName": "Kill",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "9",
+      "Description": "Incantation maudite qui peut envoyer un ennemi dans l'au-dela"
+    },
+    {
+      "spellName": "Superkill",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "12",
+      "Description": "Incantation maudite qui peut envoyer les ennemis dans l'au-dela"
+    },
+    {
+      "spellName": "Megalest",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "32",
+      "Description": "Reduit les PV de tous les ennemis d'1/6"
+    },
+    {
+      "spellName": "Grill",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "5",
+      "Description": "Grille legerement un ennemi"
+    },
+    {
+      "spellName": "Frenesie",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "8",
+      "Description": "Porte un coup critique a un allie ou a un ennemi, la cible etant aleatoire"
+    },
+    {
+      "spellName": "Barbecue",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "10",
+      "Description": "Brule gravement tous les ennemis"
+    },
+    {
+      "spellName": "Drole de danse",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "",
+      "Description": "Danse capable de reduire les PM d'un ennemi"
+    },
+    {
+      "spellName": "Danse de confusion",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "4",
+      "Description": "Danse capable de plonger tous les ennemi dans la confusion"
+    },
+    {
+      "spellName": "Danse sensuelle",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "2",
+      "Description": "Danse pouvant forcer un ennemi a ce mettre a danser"
+    },
+    {
+      "spellName": "Antidanse",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "6",
+      "Description": "Empeche tous les ennemis de danser"
+    },
+    {
+      "spellName": "Danse des soins",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "6",
+      "Description": "Danse restituant environs 70PV a tous les allies"
+    },
+    {
+      "spellName": "Danse de la mort",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "6",
+      "Description": "Danse capable d'envoyer tous les ennemis dans l'au-dela"
+    },
+    {
+      "spellName": "Danse de conjuration",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "16",
+      "Description": "Ressuscite tous les allie"
+    },
+    {
+      "spellName": "Lapidaction",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Envoie un rocher sur un ennemi"
+    },
+    {
+      "spellName": "Kamikaze",
+      "Type": "Magique",
+      "Element": "?",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "1",
+      "Description": "Ete la vie de celui qui le lance pour essayer de tuer tous les ennemis"
+    },
+    {
+      "spellName": "Ricochet",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "8",
+      "Description": "Fend la terre et transperce tous les ennemis avec des rochers mortels"
+    },
+    {
+      "spellName": "Conjuration",
+      "Type": "Soin",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "x",
+      "Description": "Sacrifie la vie du lanceur du sort pour ressusciter les allies"
+    },
+    {
+      "spellName": "Rock'n'Roll",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "25",
+      "Description": "Precipite des rochers dechiquetes sur tous les ennemis"
+    },
+    {
+      "spellName": "Cri de guerre",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "3",
+      "Description": "Horrible cri de combat qui paralyse tous les ennemis de terreur"
+    },
+    {
+      "spellName": "Vague de panique",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "7",
+      "Description": "Affaiblit les caracteristiques d'un seul ennemi"
+    },
+    {
+      "spellName": "Aura de peur",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "2",
+      "Description": "Diminue la resistance de tous les ennemis a la magie"
+    },
+    {
+      "spellName": "Gigaslash",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "16",
+      "Description": "Coup de lame puissant qui inflige des degat de Bang a un ennemi. son efficacite varie selon le niveau de l'utilisateur"
+    },
+    {
+      "spellName": "Gigagash",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "55",
+      "Description": "Coup de lame puissant qui inflige des degat de Bang a un ennemi. son efficacite varie selon le niveau de l'utilisateur"
+    },
+    {
+      "spellName": "Giclette",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "5",
+      "Description": "Envoie un jet d'eau sur un ennemi"
+    },
+    {
+      "spellName": "Geyser",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "5",
+      "Description": "Balaie tous les ennemis avec un puissant jet d'eau"
+    },
+    {
+      "spellName": "Haleine fraeche",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "3",
+      "Description": "Soupir parfume qui endort tous les ennemis"
+    },
+    {
+      "spellName": "Desordre",
+      "Type": "Soutien",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "36",
+      "Description": "Fait combattre les monsters les moins agiles avant les autres"
+    },
+    {
+      "spellName": "Trou d'air",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "8",
+      "Description": "Taille tous les ennemis en pieces dans un vortex coupant"
+    },
+    {
+      "spellName": "Etincelle",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "6",
+      "Description": "Frappe un ennemi avec la foudre"
+    },
+    {
+      "spellName": "Eclair",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "6",
+      "Description": "Foudroie tous les ennemis avec un puissant eclair"
+    },
+    {
+      "spellName": "Orage d'eclair",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "25",
+      "Description": "Foudroie tous les ennemis par des boules de foudre devastatrices"
+    },
+    {
+      "spellName": "Cremation",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "25",
+      "Description": "Consume tous les ennemis dans un brasier infernal"
+    },
+    {
+      "spellName": "Raz-de-maree",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "25",
+      "Description": "Engloutit tous les ennemis sous un deluge devastateur"
+    },
+    {
+      "spellName": "Ouragan",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "25",
+      "Description": "Hache menu tous les ennemis dans un vortex tranchant"
+    },
+    {
+      "spellName": "Cha-cha sournois",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "x",
+      "Description": "Danse effroyable qui inflige des degats et dont la cible et aleatoire"
+    },
+    {
+      "spellName": "Megabanga",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "50",
+      "Description": "Balaie tous les ennemis avec une vague diabolique d'energie malefique"
+    },
+    {
+      "spellName": "Porte de nacre",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "34",
+      "Description": "Frappe tous les ennemis d'une lumiere benie a la puissance divine"
+    },
+    {
+      "spellName": "Flammoglace",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "80",
+      "Description": "Violent dereglement dans l'equilibre naturel du monde infligeant de feroces degats a un ennemi"
+    },
+    {
+      "spellName": "Vent coupant",
+      "Type": "Physique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "0",
+      "Cout": "4",
+      "Description": "Enveloppe un ennemi dans un vortex cinglant"
+    },
+    {
+      "spellName": "Explosion magique",
+      "Type": "Magique",
+      "Element": "Neutre",
+      "Size": "none",
+      "Multicible": "1",
+      "Cout": "x",
+      "Description": "Libere sur les ennemis tous les PM restants en un assaut magique extreme. Plus les PM du lanceur sont eleves, plus les degats sont importants"
+    }
+
+  ]
+}

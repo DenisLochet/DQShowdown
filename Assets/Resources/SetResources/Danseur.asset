@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Danseur
+  m_EditorClassIdentifier: 
+  setName: Danseur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 70e7c21cf5008c747a86084905b42718, type: 2}
+  - {fileID: 11400000, guid: 883f9812e5bed9c4e80aea7beed72599, type: 2}
+  - {fileID: 11400000, guid: 73ac05d6bdbe90b40a83159fc294416f, type: 2}
+  - {fileID: 11400000, guid: 1f74f8b67ed46a947b49cc4d35184a6a, type: 2}
+  - {fileID: 11400000, guid: f23803225760f254f96b79d6f0c84dfb, type: 2}
+  - {fileID: 11400000, guid: 568761af72cc1bc4a934318e5077191e, type: 2}
+  - {fileID: 11400000, guid: b8178d0baa1b27d4fbfa11fffec21ecb, type: 2}
+  - {fileID: 11400000, guid: 2d8534461a917344face356b08a425b1, type: 2}
+  - {fileID: 11400000, guid: 569012ff1e538644fbfb4bf96db93050, type: 2}

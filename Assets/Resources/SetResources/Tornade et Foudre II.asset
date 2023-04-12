@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Tornade et Foudre II
+  m_EditorClassIdentifier: 
+  setName: Tornade et Foudre II
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 9966c29607692ac4f8c1f18bc5c87785, type: 2}
+  - {fileID: 11400000, guid: cd8ca576a88d20541af48254c20317bd, type: 2}
+  - {fileID: 11400000, guid: 3551e7956c42dfd43a64b971a13ca442, type: 2}
+  - {fileID: 11400000, guid: d1cdc669e7b1dee4b97bdc32cce3aa9c, type: 2}
+  - {fileID: 11400000, guid: 7805a6e267138a9448b41464d6101ca1, type: 2}
+  - {fileID: 11400000, guid: 65c4225b35fd7a14e9fafc8aa2ce9a60, type: 2}

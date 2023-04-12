@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Bang et Elec II
+  m_EditorClassIdentifier: 
+  setName: Bang et Elec II
+  aptitudeDatas:
+  - {fileID: 11400000, guid: d5cd93a0f84a3aa4b9f9992b2f9fc410, type: 2}
+  - {fileID: 11400000, guid: f2802b66782f9f14f9451c150fc487e6, type: 2}
+  - {fileID: 11400000, guid: 3dda984764e5a9044a30e1e9f4911bd9, type: 2}
+  - {fileID: 11400000, guid: d9e42a37c3a5a3642a8559debdfd259e, type: 2}
+  - {fileID: 11400000, guid: 9e6ed209e438f504ca185003e746558c, type: 2}
+  - {fileID: 11400000, guid: b63bb502293d0d64fb2f39c624d1be16, type: 2}

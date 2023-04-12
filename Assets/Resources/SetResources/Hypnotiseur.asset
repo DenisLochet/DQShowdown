@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Hypnotiseur
+  m_EditorClassIdentifier: 
+  setName: Hypnotiseur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 880f025af75118040ae0b84a866f1e23, type: 2}
+  - {fileID: 11400000, guid: 6d6bbb02a42254e44832ce72b327c6f9, type: 2}
+  - {fileID: 11400000, guid: ebe0385f21fac964a910db465825136c, type: 2}
+  - {fileID: 11400000, guid: fc70e1d5c476e0f4e9022c9bcbd27794, type: 2}
+  - {fileID: 11400000, guid: 03257d67f253f734193e59d9a6223f5f, type: 2}
+  - {fileID: 11400000, guid: 23da791736d66954092835f7868b451e, type: 2}
+  - {fileID: 11400000, guid: d118c4a746ce9ef4d8661c76e6b756fb, type: 2}

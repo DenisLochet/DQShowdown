@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Souffleur de vent
+  m_EditorClassIdentifier: 
+  setName: Souffleur de vent
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 89c6dadaa23b7714faf48c84853eae5c, type: 2}
+  - {fileID: 11400000, guid: 70e7c21cf5008c747a86084905b42718, type: 2}
+  - {fileID: 11400000, guid: 07714c62155383341817edeaa378e728, type: 2}
+  - {fileID: 11400000, guid: a63f3842d4ed79348b05a39dae9728dc, type: 2}
+  - {fileID: 11400000, guid: 9966c29607692ac4f8c1f18bc5c87785, type: 2}
+  - {fileID: 11400000, guid: 7e220ad9a632ac946b026a0d9fccd2d9, type: 2}

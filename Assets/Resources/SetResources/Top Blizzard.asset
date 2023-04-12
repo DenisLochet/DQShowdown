@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Top Blizzard
+  m_EditorClassIdentifier: 
+  setName: Top Blizzard
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 7805a6e267138a9448b41464d6101ca1, type: 2}
+  - {fileID: 11400000, guid: 65c4225b35fd7a14e9fafc8aa2ce9a60, type: 2}
+  - {fileID: 11400000, guid: a9ddd3bf6bcdd1c468eea5c49a599456, type: 2}
+  - {fileID: 11400000, guid: a2b2b7a45cf9f4947aa4fca247e326dc, type: 2}
+  - {fileID: 11400000, guid: 8e59d2fd1cdb36b43a73fe4d76881675, type: 2}
+  - {fileID: 11400000, guid: 0da5839c6595f4341a43c849d6dbf5fd, type: 2}
+  - {fileID: 11400000, guid: fbe55b4ef28d5ff4187a998196663f84, type: 2}
+  - {fileID: 11400000, guid: e8e12c4f5a04c25489e9352bb0848ffc, type: 2}

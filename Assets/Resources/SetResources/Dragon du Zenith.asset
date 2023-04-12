@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Dragon du Zenith
+  m_EditorClassIdentifier: 
+  setName: Dragon du Zenith
+  aptitudeDatas:
+  - {fileID: 11400000, guid: ce54df4efda03f1449cba9367e86b98b, type: 2}
+  - {fileID: 11400000, guid: 5e0f29e1bfc57794889c15200befc9f6, type: 2}
+  - {fileID: 11400000, guid: f3229bb684365424ba7456e9ee581bd9, type: 2}
+  - {fileID: 11400000, guid: e881596907990b64fbcab9e312748ad2, type: 2}
+  - {fileID: 11400000, guid: b8ca3277cb9b56a489fc1f4c10233dcb, type: 2}
+  - {fileID: 11400000, guid: 30b1d98cfcefdf4499b45d6f003c39c8, type: 2}
+  - {fileID: 11400000, guid: 9b6f917c663ae69459574282cc7e4337, type: 2}

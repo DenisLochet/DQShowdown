@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Joker
+  m_EditorClassIdentifier: 
+  setName: Joker
+  aptitudeDatas:
+  - {fileID: 11400000, guid: b58920e745547004396f6efa5e1edd8e, type: 2}
+  - {fileID: 11400000, guid: 9e891b60eafa7bd4c873fb32351c1cee, type: 2}
+  - {fileID: 11400000, guid: aad353488ea7376489a05135a1114c82, type: 2}
+  - {fileID: 11400000, guid: 486cfde4823b70b4ebb7261998a92fea, type: 2}
+  - {fileID: 11400000, guid: b8178d0baa1b27d4fbfa11fffec21ecb, type: 2}
+  - {fileID: 11400000, guid: 6fa02838a57253a4baf75bf0f7b9f827, type: 2}
+  - {fileID: 11400000, guid: b8ca3277cb9b56a489fc1f4c10233dcb, type: 2}

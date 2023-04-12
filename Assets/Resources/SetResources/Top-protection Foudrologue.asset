@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Top-protection Foudrologue
+  m_EditorClassIdentifier: 
+  setName: Top-protection Foudrologue
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 65c4225b35fd7a14e9fafc8aa2ce9a60, type: 2}
+  - {fileID: 11400000, guid: 1c64135035e4c444693760879e2db5bd, type: 2}
+  - {fileID: 11400000, guid: 844e8e2599983ca4ea77964dae85ba05, type: 2}
+  - {fileID: 11400000, guid: a2b2b7a45cf9f4947aa4fca247e326dc, type: 2}
+  - {fileID: 11400000, guid: fbe55b4ef28d5ff4187a998196663f84, type: 2}
+  - {fileID: 11400000, guid: 6038153c184bf0f499668abf006f231b, type: 2}
+  - {fileID: 11400000, guid: a115dbf3d0a10d945b8e7078c435f8b1, type: 2}

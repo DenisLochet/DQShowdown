@@ -1,0 +1,6726 @@
+fileFormatVersion: 2
+guid: 303404626e8389849881559faefb7543
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vercule
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459183e91cc56149961b257499f043f
+      internalID: -1250232659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhe
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7418d5c0c1da86a45af0d163f3a46414
+      internalID: 1975104601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empyrea
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb4f0a5521d86d4b83b05342006fd85
+      internalID: -1170863856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ymperea
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddb49a0d69be14fa4558eb10eebb85
+      internalID: 1540274828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adverso
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea73abca0aa09146b329d1726ec1be7
+      internalID: 1659650469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sagitaure
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe14cf3f83fee4d935eeaef3a4581b
+      internalID: -782485589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estark
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9abda470b39145a8065abae502a94
+      internalID: 418305210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhonia
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1480314fb3b7f9949b264485cc9b8edd
+      internalID: 130281303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canzer
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f65b50e7302f4e91e362d414f4bd1
+      internalID: -649142667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluanzer
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31280d09c7414de40bbeb96ae38e6d25
+      internalID: -1197418739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruine
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11764179fd28a944b5766f1e45e189c
+      internalID: 307281168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rapthorne II
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ddfacf8ef905d49969d0002be39292
+      internalID: -824694156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rigor mortex
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fee02e135f65c4da623afe40ef5835
+      internalID: 1827373738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydragon
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646fc98652187314c9333d2bd3a18616
+      internalID: 1174863530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon du zenith
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fda44557ae8145a2beb4ae2b4cd23
+      internalID: 2116744792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khalamar
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429d41329e4d82438e137015cba6f7a
+      internalID: 761272887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aileopard
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5a531c9acedd4897f36ded025ae15
+      internalID: 34324104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterRessources_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3a0b6ae6096a44b06a061d4cdcf97
+      internalID: 264880598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionyx
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae4ac17b1e8b74a8f96a8ce678371c
+      internalID: 1535333297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vilionyx
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 670
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825bf15357bafa544b8559a9fd41fed0
+      internalID: -1881692458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon vert
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaafc82d57fd2c42a4f36a418a0af5f
+      internalID: 1809319756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon rouge
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a6247c9cd70e547bf660371abffc2a
+      internalID: -1588999764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geant
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54035cfb30d5db0458d00501dbb032de
+      internalID: -1091819218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855776a9b67d5e4398f9157a8924e8f
+      internalID: -2122194021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluancien
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed89864115e1242a1510f8ec1cdd39
+      internalID: 1493813688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluanpereur de metal
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f9f53d6d5b3b648b9f6fd3e71bd3a5
+      internalID: -405184286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluant de tenerium
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729056072fdc65459cba04b334d005a
+      internalID: 1383715679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluandor
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71467e80d02d0e4e9beb52efb63e796
+      internalID: -400562645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dr Rebelotte
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70083495dfd1b7e449a13e16f89d1e56
+      internalID: -392861251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trauminator
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa778f6d5445024392558d1b55b5d18
+      internalID: 1553990717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nimzo
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6483f19f672d3c448de23796c948054
+      internalID: -207457685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malroth
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2820e6d337fca1148ba1bbe9cde61f3b
+      internalID: -1100624811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Psaro
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcdf85bee391e14e845d659b0878d6f
+      internalID: -1069167325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon d'albatre
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251a3efade335ec418c629d5701b3209
+      internalID: 453928533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur Dragovien
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233e0d8a0612694f83e0ab322e3af94
+      internalID: -1711384367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacle
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a97a8527599be4d9204c1a35596ae8
+      internalID: 2099953825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xenlon
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e91b915fedfe8c46a961c0e226da497
+      internalID: 448161710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpolaire
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e931de306809047939c0926443633d
+      internalID: -1006340709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serpenlair
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a304fc6258f6df439c00168e6405260
+      internalID: -720875532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chef troll
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 588
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002af2026f93994da7cf00f6f8a7463
+      internalID: -1146585438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortamor
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68507cbdf36b89049b90c1a2753d82bb
+      internalID: -1598571677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dorsalam
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8f192655572054dac7fb8b35817975
+      internalID: 1952485209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orgodemir
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9106b947154a9a47bebbb795760ca3a
+      internalID: 284574296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarantueur
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4d00d28bb5f0647af74ff1ae031f6e
+      internalID: -667043976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbarus
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb165ad984e40246925d60af6d6810c
+      internalID: 1334478814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grizius
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437b718688b2813458b8397b4190570a
+      internalID: 2129516785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortella
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e01647635591342933a800a81f18b2
+      internalID: -392988776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epinea
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2384ea1fe3ee2f4fb09f536551f7917
+      internalID: -20529141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duellis
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c91ef8a1f7e7a44b3bc63641fe1e0d
+      internalID: -553957599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord Lionel
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cc1967eb24a447b3b073f19bc1523
+      internalID: 1436529313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calmaroi
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e392b3f99c9ae314c859dd9f4bb27a97
+      internalID: 208141399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemon
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffa0e426357968408e36e91b48b55a7
+      internalID: -99200319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exorsus
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6fa093ca6d8a47b884096e443c079
+      internalID: 110519625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lordragon
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f1f5a395fcb5148be9c60f1c5268e5
+      internalID: -709685345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dangerose
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ea330463282464f8b8e77499917a1a
+      internalID: -609734279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tronc bine
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 506
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ec25cf40f2fe4793a3373fdb9eb54
+      internalID: -1883243216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capitaine Crow
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 506
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962e4e32ffd64e4b945f7e87508ec69
+      internalID: -465111217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Superslurp
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 506
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8006bc6eaa0ec6e4798ec35b34a57cb3
+      internalID: -1538044630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nemeslurp
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 506
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4520cd9dba9dc44781a0015be820693
+      internalID: 1069642754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decapitete
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 506
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80baef97b722afd42b66154dbc60a0c9
+      internalID: 1198646090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurlherbe
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02c2c143ff123248b13f08e6321747f
+      internalID: 414836841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royalgue
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83afc9c0b9f100446bffd253f4b2b046
+      internalID: -593613358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecrevicieux
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a04add1f840846acf80e4b1bb1b99
+      internalID: 569075669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meurtor
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2eb491318b1846950bcc0965723c2
+      internalID: -535293214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rapthorne
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa36a2375e76654c9631a2e634b8c6e
+      internalID: -1578206957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouchomme
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d754ecff377528f46ad597d1b0f53794
+      internalID: 1912231999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon de metal
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d3a4403910afe49934413e9571e39e
+      internalID: -105685763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecadragon
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3df7341c4764f842bcda7126945f5b0
+      internalID: 1583265755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bruleflamme
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f67e7778bf0d6e42ab4220b95cf48d8
+      internalID: 187571601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brulegel
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5174bbcd84e90534cb347e0469268dfc
+      internalID: 626147571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lordraco
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576749977cb76b4b92cdde8df276617
+      internalID: -1226002975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squelette
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103b5ef3895e4241ac023cfc78f1949
+      internalID: 1245305449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldat squelette
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f29a050000ba5340bf28f77e03ca377
+      internalID: 1582836263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragos
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc0c91e01110c740bac208fc586be83
+      internalID: -2085179571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garde octavien
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af027c8017f324241a02b72fd53e0c23
+      internalID: -336050605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empereur nocturne
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56dea6da83c1ad42a620647919c642f
+      internalID: -603421810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon du dessert
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f488e0257f44c843aee9efb1d35fb7f
+      internalID: -976647586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archidemon
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ae8fd24a5612f4d9afb5ca28203965
+      internalID: 1764100102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belial
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 463
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ce687cde49a04b84aa639f6005e9d
+      internalID: 525609907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orque
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 464
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb6a71a50db33f4b9432a6e62dd0a1d
+      internalID: 34315609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bataglan
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d5ad1da5e5062418f33e55973bcfa0
+      internalID: 533995722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glanclan
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1f0f20c476cc44ab92ad40ce5dd2a
+      internalID: 1836898850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperonde
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c146d222da3a844b8f4c7d83a2959ab
+      internalID: -1137710767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condor infernal
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbdc17c8981cee45bd414f826c5b2c6
+      internalID: 1481001702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faucon d'or
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1cf22774e3d840867cf88e9a4303b
+      internalID: -20736129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grand dragon
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef18e2ca86e41a44912b566d3bdbedb
+      internalID: 1895342814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon noir
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682637bab08e00b4b9c90902ea88da4a
+      internalID: -1209693444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silvapitheque
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f931b8d67d8f82a48a43d7468f1a295a
+      internalID: -1327895852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pazuzu
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a84e7eb63ca046af599cbdaec557e
+      internalID: -765525049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffon
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd8b0e4db64bbc4896275635e135777
+      internalID: 209647614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jamirus
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f3dc779c596034cb34ac46318fbb3d
+      internalID: -452373897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dhurian
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2cb32fb9841724baec5863d74d2441
+      internalID: 48400681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nokturnus
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c979ddd3c41b3c8428667e01a6955e9b
+      internalID: -1463472304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smilodon de lait
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4694d442a8f15488a6ee15bef1c313
+      internalID: -1831418486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smilodon
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c62a084e5af3e4aa3f214a33ae0d4e
+      internalID: -1062135019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zoma
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f4c4e1759e984e82a135080f070b8
+      internalID: -851012570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon inferieur
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ebc35b7f706f46801b09af2ad3fca
+      internalID: -182147995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pantin de boue
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef90ba4b7993884faaa543992d42a23
+      internalID: -1820812350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main de boue
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22de72ac0c3b374c8f0f5ea4a920e22
+      internalID: 327789127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Souche louche
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 422
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc215e70edd2a40aa674a8dccb36de
+      internalID: -1660372665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chasseur de tetes
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f23bc04fb2923143a4f53c26bc83141
+      internalID: -473197894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spitnik
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27f32db63842b14891eeb5e2bf69952
+      internalID: 1220040928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bigloeil
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4cfac09bbd3a2429bb28445b3e9389
+      internalID: -1744928541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phalene geante
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e18797c667da84bac1ba10193e16ee
+      internalID: 296078815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragronce
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc67a60d391a70049ba22f0479b55df7
+      internalID: 424877574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epironce
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8cd08230f80a4684fd61ffa49f123
+      internalID: 825965819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glaglator
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d6c2e0e016cc4d82526357f3173ad
+      internalID: -2050031601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magmasse
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd809ff06f8c4b24dba93b4232cef0c4
+      internalID: -736938491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golem
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f9e0f503856054bbb8226c8a00082c
+      internalID: -1707018907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golem d'or
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970c68dace541746bef58f3afd23d96
+      internalID: -1505768722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: As de pique
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6838ee73afc4fa42b9511d6f2590e60
+      internalID: -276115448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joker
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab87570fed982545855df6ea24c63a8
+      internalID: -1259317255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoupik
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b8380c9c688f24cbe4b7623a7e40af
+      internalID: 26679315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apik
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991242d903dcc564c91ab8d59776e924
+      internalID: 470817776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Malicongre
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23152db1acbc13849b0642319636bc9c
+      internalID: 1194185036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belzebik
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5351360b4dacd2747adb1260180b8c07
+      internalID: 725246031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cercoeil
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a96ead56e7a7e448ea6e51e63f47f4
+      internalID: -1096183550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ecoeil
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612193bd4f9daae4bac98a9e94d6d518
+      internalID: 1295745404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rochexplosif
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902af75d888c28046906ce412f50dc8a
+      internalID: -1385362575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slurpierre
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 380
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa129903eb3145439a5e858d5b589d0
+      internalID: -2086310802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lezard argon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9b953784b24c74a96a0988bc73ea50
+      internalID: 7819275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fri fri
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4827669e5817744bb5cbe8f5758eda9
+      internalID: -1640349627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangliogre
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d32b21b1f6f6f479b4d67489757962
+      internalID: 45819498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosegarde
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed77d2653baf24e8901f366ea63afa
+      internalID: 1158767425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armure errante
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45606d579c42d5344a93c4800ccde20e
+      internalID: 93926377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armure fatale
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f4b9f23ee74d40a7fa6de099cd135
+      internalID: -1460639937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur malheur
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbb9706b0e48b4289672421fda4fc0
+      internalID: 1547357153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seigneur terreur
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c77e1c6bc6778a4d8b2cc4b463b3324
+      internalID: -2082015715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue vivante
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfff71e0c687fb439ac5a0e8a5d2cd0
+      internalID: -213344235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phix
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d2e5935307ecc44b1d494d036c7b38
+      internalID: 516170275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momignon
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2a078835e06e7438915f0c0353ef0f
+      internalID: -784204099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capitenace
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa699b2ff82c542922d9228f4bc368
+      internalID: -980024524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoukaro
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c5be13ddd245641a61c14b29e1058f
+      internalID: -1613520959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akaro
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b5d2739b01c1479ce40c91d28a012
+      internalID: -1177351664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarablinde
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a319a71a0b834ae41b4701b8f351cf05
+      internalID: -777805488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarabrute
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd211d28100c044395a9b4667e6395d
+      internalID: 1150901449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorerille
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b6350d69a9c94496a2a6fea5823e9
+      internalID: 720750141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lievrecorne
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06d40d01088c044595c953940a63a8c
+      internalID: 116605710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faune
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35fffc9a0fec0446aebda4b130abfd2
+      internalID: -1413442793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belicorne
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1ab8372b9f5f4c89fde5966b24568
+      internalID: 1560418853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grand lezard argon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613119adf71936146a3ae0b8ef94acf7
+      internalID: -1456588239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frou frou
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c49cfa645bfa1e42ae38364589b97cf
+      internalID: 519678571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gargouille
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312895bcfc015fc4284e8866060caf2b
+      internalID: 325967474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chien de l'enfer
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b16722aad5614ca026b2a51a655c3
+      internalID: -1705114000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ame en peine
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a4ee3bfbfc8640ab0ce0838073449
+      internalID: 608766495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roi maudit
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8de1dd8ac84864f8ea32d2f032ed5c
+      internalID: -1535522300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier fantome
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb14e726fadb54b969920ff2cc9071
+      internalID: -2074046668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baron d'os
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9d9d2c75e0af40a6a2197be0a2ef1
+      internalID: -1329393973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavale demon
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7dd5d20086bf45a2028a923acdd13
+      internalID: -1203301663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leopold
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2b62518154d147a3351943c64bf0e
+      internalID: 1132140259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mort vivant
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a111601f5deb74fb37a3f2dd08e9aa
+      internalID: 898708137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encorneur
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbe7e7b6e971494da735eac5f8475ee
+      internalID: -1306092869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoukoeur
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0eebe7da6bef5448c6f8b4b21ff0b8
+      internalID: -102923924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Akoeur
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51070e41626074282ad8e80b4264e9
+      internalID: 793076283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabarbare
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ccced1791279499ff3700fdab08c7
+      internalID: -1121099748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hippocampik
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e012d63d2a9d944f8abf8d33dd78445
+      internalID: 2130341018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rase maree
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2a4cbd5e69134688c26fb543df6cd
+      internalID: -735965317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglimer
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f9981aa501fc6418ccb1a4ad2c055d
+      internalID: 592226619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mutancre
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526a0a37a8ca12438a641b9282a21c9
+      internalID: -1540188825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piperaduo
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 296
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4919da37b523f64193a74105fd4d4d2
+      internalID: 1098825374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gourdechaine
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ef7a5268a2e234dafc78167e5c78e5
+      internalID: -1243033950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornithox
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0d9b3c59ba0b343be84594942e1c09
+      internalID: -15120837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charpiranha
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a9f10419c67bf49a187b8ee8177b9c
+      internalID: -522361473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marionnettiste
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227d5f25ee9c5040b9e5eb6d284de18
+      internalID: 190697244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escrimeur fantome
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c11654e8243540a11ec3e3968b990
+      internalID: 240492891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Epeiste fantome
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd5e7a6c055d2e4290641ee760fd279
+      internalID: 1581049515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shivattak
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f20831324c21499fa631b4ddb6139
+      internalID: -1193411041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclomage
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ca55d07e86d747a7fc2a2333fd2c2
+      internalID: 604555435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaos
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42119a1390a1c324c9122fe9fc797d40
+      internalID: 2007831982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dhoulmagus
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767062c8e9e524f44ab89fee145a007b
+      internalID: -2109318464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mousquetueur
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197909f99d176441a69a3c306333fdf
+      internalID: -43468950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cimetueur
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb4e2909a7548d44b72fea94d26aefc
+      internalID: -778782620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atoutrefle
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7ae072bdba1a4e87066d00569dedd
+      internalID: -822788201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atrefle
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba93e36dcbbba48a2f5d0af5a39569
+      internalID: 2112439815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gracos
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b48812236429f489e7dc1fbf7aba64
+      internalID: 1565136740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tigriff
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec41d5b4ff1c884bbce9a91a228a2f1
+      internalID: -872518503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimasque
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def87c02ca2edf2488e656cde2d96983
+      internalID: -1777665669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gourou bouh
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2774cefc0a753249b07e37bf7e41f9c
+      internalID: 313428170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salmigondis
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab4f0fb6bf189f4c84e62efc5dcd693
+      internalID: -1201604633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantome
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 254
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f326a83957a84f91469876ecffb08
+      internalID: 1611744207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chimere
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ab06207e5ce9540b0718ab52ab2c85
+      internalID: 1558765766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chagriffeur
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4bc16138a1edd4bb3a2db95d0d3f6a
+      internalID: 1641419953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dangeleux
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb1ac8ae6ed7cb47b772d7c72f27921
+      internalID: -2111003112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti yetu
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c7f5194def2b24381475ea300e9813
+      internalID: -1820850280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doudouleur
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221370f64342d5846809417ea4be4b16
+      internalID: 1779466938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mecachasseur
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7afcf0198c858643bd30e462bba7699
+      internalID: -1758804936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machine a tuer
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8c856ec1f145e4c9a24d34a8923da6
+      internalID: 1054456582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machine a exterminer
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96874537478d63b4ba03af0d29236a1b
+      internalID: -1165606180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hachosaure
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b791045805bfd4397d9a8ad64f3024
+      internalID: 395990462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrantosaure
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3644fba7dcdea48b7d231847ebe1c6
+      internalID: -1141193748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracularge
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498ad1ad36eb954282b2b300973cd2c
+      internalID: 1021724318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Draculard
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556279089bce034888500b6701fc67f
+      internalID: -628352976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saint berneur
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aff7795e7603245b627c9a6519cf8b
+      internalID: -1967517409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragonfle
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d19451fe8583149a5c01fd8bcb59d6
+      internalID: 919279730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampivol
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ae03c61e2c6d469af194f3b7b1da0
+      internalID: 1633575271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grand vampivol
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86cb35813ae9e64d8da2aec6607b2d2
+      internalID: 1209730740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diable dansant
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077258bcd1c87b429bfdc13d7d4923e
+      internalID: 75515642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Face de crapaud
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018e98188a206e418025cf9f0defb85
+      internalID: -1252429530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mallusque
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba275fb83f479824b8563f198fd9591b
+      internalID: 151432707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traumallusque
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 212
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb237edabac25f542be55c19d0898024
+      internalID: 1306078802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisebave
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db97ed4b137fa30439f2c705669a82fc
+      internalID: 1533747513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numen
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09291dfaa6c74a4d80e87a11572cdab
+      internalID: 1190584592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarapince
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ee899d9911a7740b33d74dbc5a0b9e
+      internalID: -996659110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archer vert
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc9b8d3bb5934c49a2c01f4ebdb13c2
+      internalID: -1449597027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martebrun
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddd58b9ef99ee41a2872abeb679466
+      internalID: 761415347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marteleur
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabfa02a0c0aeb47932a70663935a86
+      internalID: 1073206030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaperon vert
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7068158caa0a19043afda267c22adfba
+      internalID: -1904832726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prince des voleurs
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab885f1a2ffaf42ad2f2218a7debbd
+      internalID: 1236740802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquasaure
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d831d5da47d004c9fe7af1a80bdcc8
+      internalID: -973119992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyssaure
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9aa22aa64d9ed458f56937af721748
+      internalID: -672180290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rouage gorge
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f07ee83b20f34db63e7f9234c1f90
+      internalID: -1554960722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rapaglace
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e01873de5ed2fe4fa544461fa877aee
+      internalID: -1153302512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aiglefeu
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf0a02f366d8584db02fe4122d60192
+      internalID: -1130049972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boite a pieges
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2326b15ea3840345a36d4efd067bae4
+      internalID: 965400212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canniboite
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7a095fccddc149b83e54e5058d1d2
+      internalID: -1317973019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imitapeur
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56707b0b8a5bc0f4c9ad06dc593f52ee
+      internalID: -100612032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretre damne
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79feebe5bb82bda4f8712a164917ddac
+      internalID: -776227513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monstromasque
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b666bf128c8a4aa2d0a9cee09229a
+      internalID: -1676609249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khalamarmot
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef24560d86f0679448456417a720b0d8
+      internalID: 1968124528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feu follet
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 170
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ea1bedb0e78740b7285ff66e1e13d
+      internalID: -694944100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Champigoule
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1dcd3494b31bb49a5fc9527ae39761
+      internalID: -1727755174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuillu
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3eab0557fba3e4480ce0dbaba1ee1e
+      internalID: 124206272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuilluberlu
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe02ebc153dbec4e9c4c2403698409d
+      internalID: 774122022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Komodor
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2550a9ae1954f409331a39893e6f39
+      internalID: -1387193251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dracorne
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85ec36e59089fa4cbb761c0048f52dc
+      internalID: -176748458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butanosaure
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385da7e58960e9044aae0b0264fdbfa1
+      internalID: -1315183251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gazosaure
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2248cba1d93e8f4181a2f18705c7a43
+      internalID: -2047548868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aligatueur
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8cc50d71f4c8b47a29e1743b932729
+      internalID: 830789922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megalodon
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ec53d80e96e04f8bb042032de37b8
+      internalID: -522115843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon marin
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac2c11aed8872849bfa7d88deb9c9b4
+      internalID: -568953325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Requindrupede
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0252266920d18f4180d7c4a23a16e6a
+      internalID: 1215846884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sirenien
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a894f1177f394abcfacdc589e05f2
+      internalID: -2035291571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracuda
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9772576d2f4c16a4e8fa56a75ac67b0f
+      internalID: -1183849724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tristecire
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c55895b4be354a93ebe58a03668c0
+      internalID: 1460703985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lampferoce
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c3b90b6bf8e546ba80447d6cedb0b
+      internalID: 1090013792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sacatresor
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6648719ecdb752948af6247cf09764f0
+      internalID: -46883723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maransac
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c8acdc4a4db1b4c9c6aa5df492b941
+      internalID: -430868500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dingo dong
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553027d8873a514f9deb2d4384d3b7a
+      internalID: 855163214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f38a12fd7edf4aa7d6e2ff0b1cf52
+      internalID: -1928606836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottoeil
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ce57e54d1a6ce46add0e682d9d060b
+      internalID: -777451706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agressaim
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bccb94aa113f6429472e31e3190824
+      internalID: -1195194627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frelon de l'enfer
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1074db4e2a494dc4facbe3d56dff29e4
+      internalID: -1267765750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puce tule
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c7e400b81b5d44ad37309bc8f1fb4
+      internalID: 1021559466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furibombyx
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d02811331c275c45a1eb421028d907f
+      internalID: -275641543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scorpion
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de674e5a8c39b1448543e146cd2f392
+      internalID: 141157797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boa constrictos
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20371e9e9b0c8664fa01c96eac53ca3b
+      internalID: -752168318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocoricoq
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b564946c7d9dcb4d9af9abc767af1b2
+      internalID: 572836970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnigore
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5198ddf3abce40bd90846a0ad5b1e
+      internalID: 317910159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canidemon
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b69fc762fd6bf4f8e8fd8e5ee6b76d
+      internalID: -195248056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meno macho
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34419910ac36cdb40899540c3cd6603d
+      internalID: -1770489610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bastonnier
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74fc5a329a4ea4ab0a382022ec5db6
+      internalID: 1573309224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mister taupe
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d74b2c89030f841a836ff631390f17
+      internalID: 685558704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taupe toc
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7055ebf8dbb9ec84a924ae0c95033301
+      internalID: -2065419395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pataupe
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b187d8659adb46a615c56daa99fcf
+      internalID: -2059670319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grouillame
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91553dea86cbd140a45b68dfbe1f336
+      internalID: -1163494114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nakunoeil
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da62b135bd041454a9e65cc18172470e
+      internalID: 1424507176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corbarbac
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d33fa09213fd34eb0ad25e2e370885
+      internalID: 767470241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clindoeil
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294367058a6793341a22fea199df123b
+      internalID: 1133631782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groeuf
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a06248ead69b1b4c838e25b93a1c87d
+      internalID: -2134006712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monstruoeuf
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 86
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d864c5ceca0d4049b148c08d8fcc2bf
+      internalID: 5773508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roi gluant
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5001edc4b32b80544af62608dca1b4d8
+      internalID: -1036948525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roi guerigluant
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c736f34ee91db3418e35fa05f95fe20
+      internalID: -723448881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roi gluant de metal
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d082c6ee861044ca057fc472673e69
+      internalID: -1780964005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roi gluanbulle
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e7b52e51c8984780c06469af8f74b
+      internalID: 413916233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monte gluant
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eaf060aefbd4b4ab8a71eb9b1ed933
+      internalID: -1736892952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monte gluant de metal
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bcc00fb3cfa4948a008010e38b9e65
+      internalID: -144622683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monte vampigluant
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6383fb0815ef24a9f8ccba079e90bd
+      internalID: -597314084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monte gluancien
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74118b68e83501f47ad90bf62d7fadb0
+      internalID: -1481063444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanguini rose
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ea7d43588dac14b9a1c1772b1f5bc1
+      internalID: 1743695328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanguini vache
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ce3091412652429d3153a2b6239d8
+      internalID: -760196656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trode
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e020c36651ee341bad2192e8e43c00
+      internalID: 731735988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diablotin
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7bb3139ec288045932b9453da0e7e7
+      internalID: -1980377739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mi
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a132df22285a0514796c44d7c233b67d
+      internalID: -1276094473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gon
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a08f12f4021441a8ac0f1056e0c21
+      internalID: 15519783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dis
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade74490872ce2c48aaefd9af3034141
+      internalID: 1652979069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08564547112cb224f81b10fc27840784
+      internalID: -35297448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurapace
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d53ac6823a4ce48a6c1d019e6b3d0e
+      internalID: -1971609638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alterapace
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d12a7126e9de4da2af069c4cfd412
+      internalID: 1164836002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baramos
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba23bed361487d04c9ac9064ce683158
+      internalID: 1626321353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorcimol
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991df340f05375748a09beab69a3a20e
+      internalID: 105213940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluant
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548fb14032159b34284d89295b2c1273
+      internalID: -488400275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluante
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eee3727fa044745aff39413b9ea214
+      internalID: 122948756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluant de metal
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736625a02bb776d4e8a017bfe333ee17
+      internalID: -512497135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluant de mercure
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bf695e26496064fb2a66362b94cfc0
+      internalID: -1105377855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluanbulle
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a6dadfa4ce82488db9a3a40abaee8
+      internalID: 304330936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluant mouchete
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9af14849053b4d43af7140d97c49ff2
+      internalID: -1394424032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aggluantin
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41355021d32fa604982b006809012e72
+      internalID: -1898749076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluancornu
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46c38989400cb841902fd320c947bb7
+      internalID: 1317838327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluandragon
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa04850b40805349a49188069f2ddd1
+      internalID: 1851660695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerigluant
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b666ebf9378bb2b45a72e9455dd1fbbd
+      internalID: -90238496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medigluant
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52b9a01ba7a2af4f80e08bf2b5cf38d
+      internalID: 1413440892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorciglu
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d352e89a20ef4cb7f4221611cdcb5
+      internalID: 286093389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybergluant
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc340d8f9a330914c926f99aeabd8533
+      internalID: 123284900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vampigluant
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb5ca0f43dafe4db1bad2ee7257d73
+      internalID: -780441802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluangelique
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56bf628292d01348a1851d8635ab3c3
+      internalID: -105399606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigluant
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e7b4f5662be9459dd08daf6de375e
+      internalID: 1670194753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigluante
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58248df7c9f151f41aa26063c8b47225
+      internalID: -2089091148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escargluant
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dd49e278988e14686cabbf896e99cb
+      internalID: 1836314708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluanbulot
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd2267a05af81c4da05e6df99b6a240
+      internalID: -1021111239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluant de crin
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b00cddaaa25a2347b6f27390d69f85e
+      internalID: -949505399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ymperea: 1540274828
+      Monstromasque: -1676609249
+      Estark: 418305210
+      Nakunoeil: 1424507176
+      Orgodemir: 284574296
+      Monte vampigluant: -597314084
+      Escrimeur fantome: 240492891
+      Psaro: -1069167325
+      Griffon: 209647614
+      Nokturnus: -1463472304
+      Canniboite: -1317973019
+      Baramos: 1626321353
+      Malicongre: 1194185036
+      Lampferoce: 1090013792
+      Scarablinde: -777805488
+      Armure fatale: -1460639937
+      Demon inferieur: -182147995
+      Demon du dessert: -976647586
+      Guerigluant: -90238496
+      Empyrea: -1170863856
+      Butanosaure: -1315183251
+      Vercule: -1250232659
+      Martebrun: 761415347
+      Gigluant: 1670194753
+      Puce tule: 1021559466
+      Boa constrictos: -752168318
+      Hydragon: 1174863530
+      Mister taupe: 685558704
+      Belzebik: 725246031
+      Dracularge: 1021724318
+      Dangeleux: -2111003112
+      Atrefle: 2112439815
+      Aquasaure: -973119992
+      Champigoule: -1727755174
+      Calmaroi: 208141399
+      Barbarus: 1334478814
+      Chaperonde: -1137710767
+      Mecadragon: 1583265755
+      Salmigondis: -1201604633
+      Atlas: -2122194021
+      Gargouille: 325967474
+      Monte gluant: -1736892952
+      Cybergluant: 123284900
+      Dragronce: 424877574
+      Ruine: 307281168
+      Roi maudit: -1535522300
+      Bastonnier: 1573309224
+      Imitapeur: -100612032
+      Rapthorne II: -824694156
+      Canidemon: -195248056
+      Mutancre: -1540188825
+      Armure errante: 93926377
+      Sorciglu: 286093389
+      Diablotin: -1980377739
+      Decapitete: 1198646090
+      Roi gluanbulle: 413916233
+      Rigor mortex: 1827373738
+      Rouage gorge: -1554960722
+      Dhoulmagus: -2109318464
+      Dragon noir: -1209693444
+      Gluandragon: 1851660695
+      Tristecire: 1460703985
+      Zoma: -851012570
+      Groeuf: -2134006712
+      Furibombyx: -275641543
+      Archidemon: 1764100102
+      Rase maree: -735965317
+      Soldat squelette: 1582836263
+      Machine a tuer: 1054456582
+      Gluancien: 1493813688
+      Gluangelique: -105399606
+      Machine a exterminer: -1165606180
+      Khalamarmot: 1968124528
+      Adverso: 1659650469
+      Tarantueur: -667043976
+      Main de boue: 327789127
+      Serpenlair: -720875532
+      MonsterRessources_56: -702528056
+      Gluant: -488400275
+      Dragonfle: 919279730
+      Charpiranha: -522361473
+      Atoukoeur: -102923924
+      Gemon: -99200319
+      Doudouleur: 1779466938
+      Fantome: 1611744207
+      Geant: -1091819218
+      Mort vivant: 898708137
+      Sal: -35297448
+      Requindrupede: 1215846884
+      Grimasque: -1777665669
+      Gracos: 1565136740
+      Bigloeil: -1744928541
+      Malroth: -1100624811
+      Mi: -1276094473
+      Golem d'or: -1505768722
+      Gluant de mercure: -1105377855
+      Medigluant: 1413440892
+      Sangliogre: 45819498
+      Ecrevicieux: 569075669
+      Corbarbac: 767470241
+      Sirenien: -2035291571
+      Gourou bouh: 313428170
+      Taurapace: -1971609638
+      Grand vampivol: 1209730740
+      Hurlherbe: 414836841
+      Golem: -1707018907
+      Pantin de boue: -1820812350
+      Seigneur Dragovien: -1711384367
+      Dragon du zenith: 2116744792
+      Feuilluberlu: 774122022
+      Mecachasseur: -1758804936
+      Exorsus: 110519625
+      Shivattak: -1193411041
+      Gluant de crin: -949505399
+      Marteleur: 1073206030
+      Gluant mouchete: -1394424032
+      Escargluant: 1836314708
+      Komodor: -1387193251
+      Smilodon de lait: -1831418486
+      Lord Lionel: 1436529313
+      Ecoeil: 1295745404
+      Dragon d'albatre: 453928533
+      Cimetueur: -778782620
+      Ame en peine: 608766495
+      Condor infernal: 1481001702
+      Rosegarde: 1158767425
+      Gluante: 122948756
+      Typhonia: 130281303
+      Gluandor: -400562645
+      Dhurian: 48400681
+      Face de crapaud: -1252429530
+      Belial: 525609907
+      Aiglefeu: -1130049972
+      Roi gluant: -1036948525
+      Meno macho: -1770489610
+      Nemeslurp: 1069642754
+      Alterapace: 1164836002
+      Epinea: -20529141
+      Bruleflamme: 187571601
+      Baron d'os: -1329393973
+      Mouchomme: 1912231999
+      Sanglimer: 592226619
+      Pataupe: -2059670319
+      Tronc bine: -1883243216
+      Vilionyx: -1881692458
+      Ombre: -1928606836
+      Phix: 516170275
+      Pretre damne: -776227513
+      Lievrecorne: 116605710
+      Magmasse: -736938491
+      Draculard: -628352976
+      Sanguini rose: 1743695328
+      Gluanbulot: -1021111239
+      Joker: -1259317255
+      Sanguini vache: -760196656
+      Dorsalam: 1952485209
+      Yeti yetu: -1820850280
+      Scarabrute: 1150901449
+      Piperaduo: 1098825374
+      Sagitaure: -782485589
+      Bisebave: 1533747513
+      Garde octavien: -336050605
+      As de pique: -276115448
+      Kaos: 2007831982
+      Xenlon: 448161710
+      Glanclan: 1836898850
+      Agressaim: -1195194627
+      Faune: -1413442793
+      Grouillame: -1163494114
+      Duellis: -553957599
+      Souche louche: -1660372665
+      Encorneur: -1306092869
+      Rapthorne: -1578206957
+      Archer vert: -1449597027
+      Phalene geante: 296078815
+      Orque: 34315609
+      Taupe toc: -2065419395
+      Leopold: 1132140259
+      Dis: 1652979069
+      Tyrantosaure: -1141193748
+      Atoukaro: -1613520959
+      Monte gluancien: -1481063444
+      Trauminator: 1553990717
+      Gluant de tenerium: 1383715679
+      Ornithox: -15120837
+      Bottoeil: -777451706
+      Dragon marin: -568953325
+      Gigluante: -2089091148
+      Mortella: -392988776
+      Atoupik: 26679315
+      Empereur nocturne: -603421810
+      Gluancornu: 1317838327
+      MonsterRessources_57: -118300807
+      Nimzo: -207457685
+      Lordraco: -1226002975
+      Gon: 15519783
+      Sacatresor: -46883723
+      Megalodon: -522115843
+      Barracuda: -1183849724
+      Statue vivante: -213344235
+      Apik: 470817776
+      Gourdechaine: -1243033950
+      Aligatueur: 830789922
+      Trode: 731735988
+      Mortamor: -1598571677
+      Capitaine Crow: -465111217
+      Epeiste fantome: 1581049515
+      Cavale demon: -1203301663
+      Grizius: 2129516785
+      Feu follet: -694944100
+      Canzer: -649142667
+      Gluanbulle: 304330936
+      Lordragon: -709685345
+      Gluanzer: -1197418739
+      Scorpion: 141157797
+      Rochexplosif: -1385362575
+      Saint berneur: -1967517409
+      Vampigluant: -780441802
+      Cyclomage: 604555435
+      Jamirus: -452373897
+      Epironce: 825965819
+      Chagriffeur: 1641419953
+      Gluant de metal: -512497135
+      Serpolaire: -1006340709
+      Belicorne: 1560418853
+      Cercoeil: -1096183550
+      Chaperon vert: -1904832726
+      Mousquetueur: -43468950
+      Momignon: -784204099
+      Maransac: -430868500
+      Mallusque: 151432707
+      Dragon rouge: -1588999764
+      Akaro: -1177351664
+      Diable dansant: 75515642
+      Seigneur malheur: 1547357153
+      Lionyx: 1535333297
+      Cavalier fantome: -2074046668
+      Hachosaure: 395990462
+      Tigriff: -872518503
+      Aggluantin: -1898749076
+      Chef troll: -1146585438
+      Silvapitheque: -1327895852
+      Seigneur terreur: -2082015715
+      Capitenace: -980024524
+      Lezard argon: 7819275
+      Spitnik: 1220040928
+      Gluanpereur de metal: -405184286
+      Faucon d'or: -20736129
+      Brulegel: 626147571
+      Slurpierre: -2086310802
+      Aileopard: 34324104
+      Abyssaure: -672180290
+      Roi gluant de metal: -1780964005
+      Prince des voleurs: 1236740802
+      Traumallusque: 1306078802
+      Feuillu: 124206272
+      Gazosaure: -2047548868
+      Vampivol: 1633575271
+      Dingo dong: 855163214
+      Chien de l'enfer: -1705114000
+      Royalgue: -593613358
+      Chimere: 1558765766
+      Carnigore: 317910159
+      Squelette: 1245305449
+      Rapaglace: -1153302512
+      Bataglan: 533995722
+      Frou frou: 519678571
+      Clindoeil: 1133631782
+      Fri fri: -1640349627
+      Dr Rebelotte: -392861251
+      Crabarbare: -1121099748
+      Meurtor: -535293214
+      MonsterRessources_17: 264880598
+      Monte gluant de metal: -144622683
+      Sorcimol: 105213940
+      Nhe: 1975104601
+      Smilodon: -1062135019
+      Scarapince: -996659110
+      Marionnettiste: 190697244
+      Dracorne: -176748458
+      Gorerille: 720750141
+      Hippocampik: 2130341018
+      Grand dragon: 1895342814
+      Dragon vert: 1809319756
+      Roi guerigluant: -723448881
+      Boite a pieges: 965400212
+      Tentacle: 2099953825
+      Akoeur: 793076283
+      Cocoricoq: 572836970
+      Numen: 1190584592
+      Khalamar: 761272887
+      Monstruoeuf: 5773508
+      Dragos: -2085179571
+      Glaglator: -2050031601
+      MonsterRessources_58: -503059195
+      Atoutrefle: -822788201
+      Dangerose: -609734279
+      Dragon de metal: -105685763
+      Chasseur de tetes: -473197894
+      Superslurp: -1538044630
+      Frelon de l'enfer: -1267765750
+      Pazuzu: -765525049
+      Grand lezard argon: -1456588239
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Zoma
+  m_EditorClassIdentifier: 
+  setName: Zoma
+  aptitudeDatas:
+  - {fileID: 11400000, guid: aad353488ea7376489a05135a1114c82, type: 2}
+  - {fileID: 11400000, guid: a9ddd3bf6bcdd1c468eea5c49a599456, type: 2}
+  - {fileID: 11400000, guid: a6c155dad8980a947bc14f806344ff7d, type: 2}
+  - {fileID: 11400000, guid: 5e0f29e1bfc57794889c15200befc9f6, type: 2}
+  - {fileID: 11400000, guid: 03254e17a9d6394418b41623a5403e9a, type: 2}
+  - {fileID: 11400000, guid: e8e12c4f5a04c25489e9352bb0848ffc, type: 2}
+  - {fileID: 11400000, guid: 30b1d98cfcefdf4499b45d6f003c39c8, type: 2}
+  - {fileID: 11400000, guid: a115dbf3d0a10d945b8e7078c435f8b1, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c67a32cf0ce04540ab8ccf71d55a85e, type: 3}
+  m_Name: Saboteur
+  m_EditorClassIdentifier: 
+  setName: Saboteur
+  aptitudeDatas:
+  - {fileID: 11400000, guid: 995b4920cc5a32c458de91e61165a0dd, type: 2}
+  - {fileID: 11400000, guid: 519878418b8d79b40bb0b77af71beed9, type: 2}
+  - {fileID: 11400000, guid: fcbf35681a8c1ee41907cc1e3ee6d765, type: 2}
+  - {fileID: 11400000, guid: ad772a5d01d5ab444822a4e1fb3dee7c, type: 2}
+  - {fileID: 11400000, guid: f4494b8c88e40824394cb3f75c425bd1, type: 2}
+  - {fileID: 11400000, guid: 23535e63996ac42408633c2631b1bd7c, type: 2}
+  - {fileID: 11400000, guid: 13c6bd881faf1d848b1a0152fe192f38, type: 2}
